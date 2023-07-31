@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6cfc9db34b2337be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kotlin/Kotlin의 if.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Kotlin의 if.md",
+                "file": "Kotlin/변수 , var과 val.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Kotlin의 if.md",
+                "file": "Kotlin/변수 , var과 val.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin의 if.md"
+                "file": "Kotlin/변수 , var과 val.md"
               }
             }
           }
@@ -159,10 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6cfc9db34b2337be",
+  "active": "72e9bf11a78db51e",
   "lastOpenFiles": [
-    "Kotlin/Kotlin의 변수 타입.md",
     "Kotlin/Kotlin의 if.md",
+    "Kotlin/Kotlin의 변수 타입.md",
     "Kotlin/변수 , var과 val.md",
     "Android Studio/Android Studio.md",
     "Log.md",
