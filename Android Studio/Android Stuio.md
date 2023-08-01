@@ -26,4 +26,6 @@ Android Studio는 아래 링크에서 설치할 수 있습니다.
 
 # Android Studio Main
 
-Android Studio를 설치 후 실행하면 나타나는 화면은 다음ㄱ
+Android Studio를 설치 후 실행하면 나타나는 화면은 다음과 같습니다.
+
+![Android Stuio Main](http://raw.githubusercontent.com/tlskals/img)
