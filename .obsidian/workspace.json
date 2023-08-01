@@ -11,8 +11,12 @@
             "id": "5ca2b790c40a8588",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Android Studio/Android Stuio 설치.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Android Studio/Android Stuio 설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Android Studio/Android Stuio 설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Android Studio/Android Stuio 설치.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "5ca2b790c40a8588",
   "lastOpenFiles": [
+    "Android Studio/Android Stuio 설치.md",
+    "Android Studio",
     "asdf.md"
   ]
 }
