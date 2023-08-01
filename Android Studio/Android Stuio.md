@@ -17,12 +17,10 @@ Android 스튜디오는 Android 앱 개발을 위한 공식 통합 개발 환경
 
 # Android Studio 설치
 
-Android Studio는 
+Android Studio는 아래 링크에서 설치할 수 있습니다.
 
 ### https://developer.android.com/studio/archive?hl=ko
 
 
-
-
-
 ------
+
