@@ -1,6 +1,8 @@
 
 # Android Studio란?
 
+안드로이드 공식 문서의 설명이다.
+
 Android 스튜디오는 Android 앱 개발을 위한 공식 통합 개발 환경(IDE)입니다. Android 스튜디오는 IntelliJ IDEA의 강력한 코드 편집기와 개발자 도구를 기반으로 Android 앱을 빌드할 때 생산성을 높여주는 다음과 같은 다양한 기능을 제공합니다.
 
 - 유연한 Gradle 기반 빌드 시스템
@@ -17,7 +19,7 @@ Android 스튜디오는 Android 앱 개발을 위한 공식 통합 개발 환경
 
 # Android Studio 설치
 
-Android Studio는 아래 링크에서 설치할 수 있습니다.
+Android Studio는 아래 링크에서 설치할 수 있다.
 
 ### https://developer.android.com/studio/archive?hl=ko
 
@@ -26,7 +28,7 @@ Android Studio는 아래 링크에서 설치할 수 있습니다.
 
 # Android Studio Main
 
-Android Studio를 설치 후 실행하면 나타나는 화면은 다음과 같습니다.
+Android Studio를 설치 후 실행하면 나타나는 화면은 다음과 같다.
 
 ![Android Studio Main](https://raw.githubusercontent.com/tlskals/img/main/img/AndroidStudioMain.png)
 
@@ -35,7 +37,7 @@ Android Studio를 설치 후 실행하면 나타나는 화면은 다음과 같�
 
 ## New Project
 
-Main 화면에서 New Project를 클릭하면 나오는 화면은 다음과 같습니다.
+Main 화면에서 New Project를 클릭하면 나오는 화면은 다음과 같다.
 
 ### Phone and Tablet
 
