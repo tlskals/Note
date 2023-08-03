@@ -30,7 +30,7 @@ Android Studio는 아래 링크에서 설치할 수 있다.
 
 Android Studio를 설치 후 실행하면 나타나는 화면은 다음과 같다.
 
-![Android Studio Main](https://raw.githubusercontent.com/tlskals/img/main/img/AndroidStudioMain.png)
+![Android Studio Main](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/AndroidStudioMain.png)
 
 
 -----
@@ -43,7 +43,7 @@ Main 화면에서 New Project를 클릭하면 나오는 화면은 다음과 같�
 
 핸드폰과 태블릿 프로그램을 위한 템플릿
 
-![Phone and Tablet](https://raw.githubusercontent.com/tlskals/img/main/img/NewProject.PNG)
+![Phone and Tablet](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/NewProject.PNG)
 
 
 ### Wear OS
@@ -51,14 +51,14 @@ Main 화면에서 New Project를 클릭하면 나오는 화면은 다음과 같�
 시계 프로그램을 위한 템플릿
 
 
-![WearOS](https://raw.githubusercontent.com/tlskals/img/main/img/WearOS.PNG)
+![WearOS](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/WearOS.PNG)
 
 
 ### Android TV
 
 Android TV 프로그램을 위한 템플릿
 
-![Android TV](https://raw.githubusercontent.com/tlskals/img/main/img/AndroidTV.PNG)
+![Android TV](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/AndroidTV.PNG)
 
 ### Automotive
 
@@ -73,7 +73,7 @@ Android TV 프로그램을 위한 템플릿
 
 내가 제작하고 싶은 앱에 맞는 템플릿을 선택하면 다음 창이 나옵니다.
 
-![Empty Activity](https://raw.githubusercontent.com/tlskals/img/main/img/EmptyActivity.PNG)
+![Empty Activity](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/EmptyActivity.PNG)
 
 ## Name
 
@@ -118,3 +118,4 @@ IntelliJ의 화면과 99%는 똑같다.
 
 ## MainActivity.kt
 
+![Main Activity](https://raw.githubusercontent)
