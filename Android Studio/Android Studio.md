@@ -125,3 +125,4 @@ Project Run에 관한 파일이다. (자바로 치면 ServerApplication.java 파
 
 ## activity_main.xml
 
+![ctivity](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/MainActivity.PNG)
