@@ -69,3 +69,6 @@ Android TV 프로그램을 위한 템플릿
 
 # Project 시작하기
 
+내가 제작하고 싶은 앱에 맞는 템플릿을 선택하면 다음 창이 나옵니다.
+
+!(Empty Activity)[https://raw.githubusercontent.com/tlskals/img/main/img]
