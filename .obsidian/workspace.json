@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ca2b790c40a8588",
+            "id": "72e9bf11a78db51e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android Studio/Android Stuio.md",
+                "file": "Android Studio/Android Studio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android Studio/Android Stuio.md",
+                "file": "Android Studio/Android Studio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android Studio/Android Stuio.md",
+                "file": "Android Studio/Android Studio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android Studio/Android Stuio.md"
+                "file": "Android Studio/Android Studio.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9e01a24a379fe51f",
+  "active": "72e9bf11a78db51e",
   "lastOpenFiles": [
+    "Android Studio/Android Studio.md",
     "Android Studio/Android Stuio.md",
     "Android Studio",
     "asdf.md"
