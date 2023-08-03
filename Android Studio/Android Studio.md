@@ -37,11 +37,13 @@ Android Studio를 설치 후 실행하면 나타나는 화면은 다음과 같�
 
 Main 화면에서 New Project를 클릭하면 나오는 화면은 다음과 같습니다.
 
-![New Project](https://raw.githubusercontent.com/tlskals/img/main/img/NewProject.PNG)
+![Phone and Tablet](https://raw.githubusercontent.com/tlskals/img/main/img/NewProject.PNG)
 
 ### Phone and Tablet
 
 핸드폰과 태블릿 프로그램을 위한 템플릿
+
+
 
 ### Wear OS
 
