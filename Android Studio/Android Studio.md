@@ -3,7 +3,7 @@
 
 안드로이드 공식 문서의 설명이다.
 
-Android 스튜디오는 Android 앱 개발을 위한 공식 통합 개발 환경(IDE)입니다. Android 스튜디오는 IntelliJ IDEA의 강력한 코드 편집기와 개발자 도구를 기반으로 Android 앱을 빌드할 때 생산성을 높여주는 다음과 같은 다양한 기능을 제공합니다.
+Android 스튜디오는 Android 앱 개발을 위한 공식 통합 개발 환경(IDE)입니다. </br>Android 스튜디오는 IntelliJ IDEA의 강력한 코드 편집기와 개발자 도구를 기반으로</br> Android 앱을 빌드할 때 생산성을 높여주는 다음과 같은 다양한 기능을 제공합니다.
 
 - 유연한 Gradle 기반 빌드 시스템
 - 빠르고 기능이 풍부한 에뮬레이터
@@ -140,3 +140,6 @@ class MainActivity : AppCompatActivity() {
     }  
 }
 ```
+
+-------
+
