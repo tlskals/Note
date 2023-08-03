@@ -92,4 +92,7 @@ Java / Kotlin을 선택할 수 있으며,
 Java의 주인인 Oracle과 Google간의 문제로
 Google에서 안드로이드의 언어를 Kotlin으로 지정했기 때문에 Kotlin을 선택하면 된다.
 
-Minimum S
+## Minimum SDK
+
+모든 Android기기는 각각의 안드로이드 버전을 가지고 있다.
+2023년 8월 기준 Android14가 최신 버전이며, 해당 SDKㄹ
