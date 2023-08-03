@@ -64,7 +64,7 @@ Android TV 프로그램을 위한 템플릿
 
 차량옹 프로그램을 위함 템플릿
 
-![Automotive](https://raw.githubusercontent.com/tlskals/img/main/img/Automotive.PNG)
+![Automotive](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/Automotive.PNG)
 
 
 ----------
@@ -111,7 +111,7 @@ Android Studio에서 제작할 수 있는 최고 버전은 Android12이다.
 
 # Android Studio
 
-![Android Studio](https://raw.githubusercontent.com/tlskals/img/main/img/AndroidStudio.PNG)
+![Android Studio](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/AndroidStudio.PNG)
 
 누가 Jetbrains 에서 만든 언어가 아니랄까봐
 IntelliJ의 화면과 99%는 똑같다.
