@@ -49,9 +49,13 @@ Main 화면에서 New Project를 클릭하면 나오는 화면은 다음과 같�
 
 시계 프로그램을 위한 템플릿
 
+![Android TV](https://raw.githubusercontent.com/tlskals/img/main/img/AndroidTV.PNG)
+
 ### Android TV
 
 Android TV 프로그램을 위한 템플릿
+
+![WearOS](https://raw.githubusercontent.com/tlskals/img/main/img/Automotive.PNG)
 
 ### Automotive
 
