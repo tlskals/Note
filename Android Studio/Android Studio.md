@@ -37,28 +37,32 @@ Android Studio를 설치 후 실행하면 나타나는 화면은 다음과 같�
 
 Main 화면에서 New Project를 클릭하면 나오는 화면은 다음과 같습니다.
 
-![Phone and Tablet](https://raw.githubusercontent.com/tlskals/img/main/img/NewProject.PNG)
-
 ### Phone and Tablet
 
 핸드폰과 태블릿 프로그램을 위한 템플릿
 
-![WearOS](https://raw.githubusercontent.com/tlskals/img/main/img/WearOS.PNG)
+![Phone and Tablet](https://raw.githubusercontent.com/tlskals/img/main/img/NewProject.PNG)
+
 
 ### Wear OS
 
 시계 프로그램을 위한 템플릿
 
-![Android TV](https://raw.githubusercontent.com/tlskals/img/main/img/AndroidTV.PNG)
+
+![WearOS](https://raw.githubusercontent.com/tlskals/img/main/img/WearOS.PNG)
+
 
 ### Android TV
 
 Android TV 프로그램을 위한 템플릿
 
-![Automotive](https://raw.githubusercontent.com/tlskals/img/main/img/Automotive.PNG)
+![Android TV](https://raw.githubusercontent.com/tlskals/img/main/img/AndroidTV.PNG)
 
 ### Automotive
 
 차량옹 프로그램을 위함 템플릿
+
+![Automotive](https://raw.githubusercontent.com/tlskals/img/main/img/Automotive.PNG)
+
 
 ----------
