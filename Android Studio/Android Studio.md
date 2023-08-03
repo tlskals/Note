@@ -113,4 +113,5 @@ Android Studio에서 제작할 수 있는 최고 버전은 Android12이다.
 
 ![Android Studio](https://raw.githubusercontent.com/tlskals/img/main/img/AndroidStudio.PNG)
 
-누가 Jetbrains
+누가 Jetbrains 에서 만든 언어가 아니랄까봐
+IntelliJ의 화면과 99%는 똑같다.
