@@ -118,4 +118,7 @@ IntelliJ의 화면과 99%는 똑같다.
 
 ## MainActivity.kt
 
-![Main Activity](https://raw.githubusercontent)
+![Main Activity](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/MainActivity.PNG)
+
+Project Run에 관한 파일이다. (자바로 치)
+확장자인 kt는 Kotlin을 의마한다.
