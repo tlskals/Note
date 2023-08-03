@@ -71,4 +71,12 @@ Android TV 프로그램을 위한 템플릿
 
 내가 제작하고 싶은 앱에 맞는 템플릿을 선택하면 다음 창이 나옵니다.
 
-!(Empty Activity)[https://raw.githubusercontent.com/tlskals/img/main/img]
+![Empty Activity](https://raw.githubusercontent.com/tlskals/img/main/img/EmptyActivity.PNG)
+
+## Name
+
+해당 프로젝트의 이름
+
+## Package name
+
+스토어에 앱을 출시하려면 고유한 패키지명
