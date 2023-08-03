@@ -34,3 +34,5 @@ Android Studio를 설치 후 실행하면 나타나는 화면은 다음과 같�
 -----
 
 ## New Project
+
+![New Project](https://raw.githubusercontent.com/tlskals/img/main/img/NewProject.PNG)
