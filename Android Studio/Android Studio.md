@@ -79,4 +79,12 @@ Android TV 프로그램을 위한 템플릿
 
 ## Package name
 
-스토어에 앱을 출시하려면 고유한 패키지명
+스토어에 앱을 출시하려면 고유한 패키지명을 가지고 있어야 한다.
+또한 Package명은 소문자로만 작성해야 한다.
+
+## Save loaction
+
+해당 프로젝트가 저장될 Local 위치
+
+## Language
+
