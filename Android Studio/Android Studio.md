@@ -95,7 +95,10 @@ Google에서 안드로이드의 언어를 Kotlin으로 지정했기 때문에 Ko
 ## Minimum SDK (Software Development Kit)
 
 모든 Android기기는 각각의 안드로이드 버전을 가지고 있다.
-2023년 8월 기준 Android14가 최신 버전이며,
+2023년 8월 3일 기준 Android14가 최신 버전이며,
 Android Studio에서 제작할 수 있는 최고 버전은 Android12이다.
+또한 Android12 지정했을 때 나오는 현재 보급률은 31.3%이다. 
 
-Android14 지정했을 때 나오는 And 보급률은 
+즉, 68.7%의 기기에서 Android12를 제작한 앱을 사용할 수 없다는 뜻이다.
+
+이는 앱
