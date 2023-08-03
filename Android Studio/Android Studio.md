@@ -120,5 +120,8 @@ IntelliJ의 화면과 99%는 똑같다.
 
 ![Main Activity](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/MainActivity.PNG)
 
-Project Run에 관한 파일이다. (자바로 치)
-확장자인 kt는 Kotlin을 의마한다.
+Project Run에 관한 파일이다. (자바로 치면 ServerApplication.java 파일이 되겠다.)
+확장자인 kt는 Kotlin을 의미한다.
+
+## activity_main.xml
+
