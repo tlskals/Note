@@ -210,7 +210,10 @@ Finish를 누르면 처음 화면으로 돌아온다.
 보이는 이미지와 같이 내가 생성한 Device가 추가된 것을 볼 수 있으며,</br>
 Android Studio 상단의 run 아이콘이 활성화 된 것을 확인할 수 있다.
 
-
+![DeviceAdded](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/DeviceAdded.PNG)
 
 -------
 
+# Error 발생
+
+내가 생성한 Device를 선택하고 
