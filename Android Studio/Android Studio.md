@@ -218,7 +218,7 @@ Android Studio 상단의 run 아이콘이 활성화 된 것을 확인할 수 있
 
 내가 생성한 Device를 선택하고 Run 버튼을 누르니 Error가 발생했다.
 
-Error이미지
+![BuildError](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/BuildError.PNG)
 
 ```
 Failed to install the following Android SDK packages as some licences have not been accepted. build-tools;30.0.2 Android SDK Build-Tools 30.0.2
@@ -228,7 +228,7 @@ Failed to install the following Android SDK packages as some licences have not b
 
 Settings에 들어가서 확인해 보았다.
 
-SDKSettings
+![SDKSettings](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/SDKSettings.PNG)
 
 License에 관련된 내용이 Google Play Licensing Library뿐이라 먼저 설치해 보았다.
 
@@ -241,4 +241,5 @@ SDKErrorSolved
 Error가 사라지고 Application이 정상적으로 실행된다.
 
 ----------------
+
 
