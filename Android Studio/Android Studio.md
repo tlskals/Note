@@ -175,5 +175,6 @@ Android Studio 버전을 선택하는 공간이다.
 이미지
 
 
-자신에게 맞는 시스템을 선택한 후 Download 버튼을 누르면
-아래와 같은 License 동의
+자신에게 맞는 시스템을 선택했다면 Download 버튼을 클릭한다.
+
+아래와 같은 License Agreement 창이 나오고 동의를 누르면,</ㅠㄱ해당 버전의 System이 설치된다.
