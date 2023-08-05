@@ -220,4 +220,8 @@ Android Studio 상단의 run 아이콘이 활성화 된 것을 확인할 수 있
 
 
 
-Failed to install the following Android SDK packages as some licences have not been accepted. build-t
+```
+Failed to install the following Android SDK packages as some licences have not been accepted. build-tools;30.0.2 Android SDK Build-Tools 30.0.2
+```
+
+내용을 보고 구글링을 해보니 SDK Li
