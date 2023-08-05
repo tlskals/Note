@@ -201,7 +201,7 @@ Android Studio 버전을 선택하는 공간이다.
 
 또한 하단의 Show Advanced Settings를 눌러 더 세세한 부분까지 설정할 수 있다.
 
-Show Advanced Settings
+![ShowAdvancedSettings](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/ShowAdvancedSettings.PNG)
 
 -------
 
