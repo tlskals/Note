@@ -227,3 +227,4 @@ Failed to install the following Android SDK packages as some licences have not b
 내용을 보고 구글링을 해보니 SDK License에서 문제가 생긴 듯 하다.
 
 Settings에 들어가서 확인해 보았다.
+
