@@ -184,15 +184,15 @@ Android Studio 버전을 선택하는 공간이다.
 
 ![LicenseAgreement](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/LicenseAgreement.PNG)
 
-![ComponentInstaller](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/LicenseAgreement.PNG)
+![ComponentInstaller](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/ComponentInstaller.PNG)
 
 설치가 완료되었다면 다음과 같이 시스템 버전을 선택 후 Next로 넘어가면 된다.
 
-SystemImageInstalled
+![SystemImageInstalled](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/SystemImageInstalled.PNG)
 
 ## Android Virtual Device
 
-Android Virtual Device
+![AndroidVirtualDevice](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/AndroidVirtualDevice.PNG)
 
 생성할 Virtual Device의 세부 설정을 선택하는 공간이다.
 
