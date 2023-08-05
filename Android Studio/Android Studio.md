@@ -216,4 +216,8 @@ Android Studio 상단의 run 아이콘이 활성화 된 것을 확인할 수 있
 
 # Error 발생
 
-내가 생성한 Device를 선택하고 
+내가 생성한 Device를 선택하고 Run 버튼을 누르니 Error가 발생했다.
+
+
+
+Failed to install the following Android SDK packages as some licences have not been accepted. build-t
