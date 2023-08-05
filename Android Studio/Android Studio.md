@@ -236,7 +236,7 @@ License에 관련된 내용이 Google Play Licensing Library뿐이라 먼저 설
 
 다시 Run 버튼을 클릭하여 정상적으로 설치했는지 확인해 보았다.
 
-![SDKErrorSolved](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/SDKErrorSolved.PNG)
+![EmulatorRun](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/EmulatorRun.PNG)
 
 Error가 사라지고 Application이 정상적으로 실행된다.
 
