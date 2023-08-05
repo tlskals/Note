@@ -166,7 +166,12 @@ Play Store 부분을 보면 특정 기기에서는 Play Store 애플리케이션
 
 ## System Image
 
+이미지
+
 Android Studio 버전을 선택하는 공간이다.
 
 현재 PC에 맞는 시스템 버전을 골라야 하며, Intel 사용자가 AMD 버전을 골랐을 경우</br>
-다음과 같이 우측 하단에 Recommendation으로 
+다음과 같이 우측 하단에 Recommendation으로 메세지를 표기해준다.
+이미지
+
+
