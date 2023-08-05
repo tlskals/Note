@@ -150,3 +150,6 @@ Android Studio에서 생성한 애플리케이션을 Android Emulator를 이용�
 
 ![Emulator](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/Emulator.PNG)
 
+![VirtualDevices](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/VirtualDevices.PNG)
+
+이제 Create Virtual Device...를  눌
