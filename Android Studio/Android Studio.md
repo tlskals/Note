@@ -175,3 +175,5 @@ Android Studio 버전을 선택하는 공간이다.
 이미지
 
 
+자신에게 맞는 시스템을 선택한 후 Download 버튼을 누르면
+아래와 같은 License 동의
