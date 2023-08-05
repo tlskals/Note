@@ -162,3 +162,8 @@ Device의 Hardware를 선택하는 공간이다.
 Category를 설정한 후에는 세부 설정을 진행할 수 있다.
 
 Play Store 부분을 보면 특정 기기에서는 Play Store 애플리케이션 마크가 적용되어 있는데, 이는 해당 설정을 적용했을 때 Play Store를 설치할 수 있으며, Play Store 확장자를 이용할 수 있다.
+
+
+## System Image
+
+Android Studio 버전
