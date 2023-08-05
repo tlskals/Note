@@ -145,4 +145,6 @@ class MainActivity : AppCompatActivity() {
 
 # Android Emulator
 
-Android Studio에서 
+Android Studio에서 생성한 앱을 Android Emulator를 이용하여
+테스트 해볼 수 있다.
+
