@@ -156,6 +156,8 @@ Android Studio에서 생성한 애플리케이션을 Android Emulator를 이용�
 
 ## Select Hardware
 
+![S](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/VirtualDevices.PNG)
+
 Device의 Hardware를 선택하는 공간이다.
 
 좌측에 어떤 기기를 사용할 것 인지에 대한 Category가 있으며,</br>
