@@ -143,3 +143,6 @@ class MainActivity : AppCompatActivity() {
 
 -------
 
+# Android Emulator
+
+Android Studio에서 
