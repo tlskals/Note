@@ -168,7 +168,7 @@ Play Store 부분을 보면 특정 기기에서는 Play Store 애플리케이션
 
 ## System Image
 
-이미지
+![SystemImage](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/SystemImage.PNG)
 
 Android Studio 버전을 선택하는 공간이다.
 
