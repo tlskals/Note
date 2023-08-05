@@ -182,9 +182,9 @@ Android Studio 버전을 선택하는 공간이다.
 아래와 같은 License Agreement 창이 나오고 동의를 누르면,</br>
 해당 버전의 System이 설치된다.
 
-LicenseAgreement
+![LicenseAgreement](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/LicenseAgreement.PNG)
 
-Component Installer
+![ComponentInstaller](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/LicenseAgreement.PNG)
 
 설치가 완료되었다면 다음과 같이 시스템 버전을 선택 후 Next로 넘어가면 된다.
 
