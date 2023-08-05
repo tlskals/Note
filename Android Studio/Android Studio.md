@@ -187,3 +187,5 @@ Component Installer
 설치가 완료되었다면 다음과 같이 시스템 버전을 선택 후 Next로 넘어가면 된다.
 
 SystemImageInstalled
+## Android Virtual Device
+
