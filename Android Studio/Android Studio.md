@@ -203,7 +203,7 @@ Android Studio 버전을 선택하는 공간이다.
 
 ![ShowAdvancedSettings](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/ShowAdvancedSettings.PNG)
 
-또한 위에서 설정한 모든 사항은 언제든 수정이 
+또한 위에서 설정한 모든 사항은 언제든 수정이 가능하다.
 
 -------
 
