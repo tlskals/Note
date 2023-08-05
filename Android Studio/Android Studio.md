@@ -153,3 +153,5 @@ Android Studio에서 생성한 애플리케이션을 Android Emulator를 이용�
 ![VirtualDevices](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/VirtualDevices.PNG)
 
 이제 Create Virtual Device...를  눌러 Emulator의 설정을 고르면 된다.
+
+## Select Hardware
