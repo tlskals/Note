@@ -174,8 +174,8 @@ Android Studio 버전을 선택하는 공간이다.
 
 현재 PC에 맞는 시스템 버전을 골라야 하며, Intel 사용자가 AMD 버전을 골랐을 경우</br>
 다음과 같이 우측 하단에 Recommendation으로 메세지를 표기해준다.
-이미지
 
+![SystemImageRecommendation](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/SystemImageRecommendation.PNG)
 
 자신에게 맞는 시스템을 선택했다면 Download 버튼을 클릭한다.
 
