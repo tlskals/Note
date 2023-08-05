@@ -156,7 +156,7 @@ Android Studio에서 생성한 애플리케이션을 Android Emulator를 이용�
 
 ## Select Hardware
 
-![S](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/VirtualDevices.PNG)
+![SelectHardware](https://raw.githubusercontent.com/tlskals/img/main/AndroidStudio/SelectHardware.PNG)
 
 Device의 Hardware를 선택하는 공간이다.
 
