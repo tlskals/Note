@@ -192,3 +192,7 @@ SystemImageInstalled
 
 생성할 Virtual Device의 세부 설정을 선택하는 공간이다.
 
+해당 기기의 이름을 선택할 수 있고, </br>
+가로, 세로 등의 세부 설정을 할 수 있다.
+
+또한 하단의 Show Advanced Settings를 눌러 더 세세한 부분까지 설정할 수 있
