@@ -6,6 +6,7 @@ Kotlin에서 변수 선언에는 val (Value) / var (variable)을 사용한다.
 각각에 대해서 이해해보자.
 
 -----------
+
 # var (variable)
 
 먼저 var에 대한 설명이다.
@@ -37,4 +38,10 @@ fun main() {
 
 ![var결과2](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/var결과2.PNG)
 
-`_즉 var라는 변수는 중간에 값을 수정이 가능하다._`
+**즉 var라는 변수는 중간에 값을 수정이 가능하다.
+
+------
+
+# val (Value)
+
+다음으로 val에 대한 설명이다.
