@@ -111,3 +111,10 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rndrnjs2003&
 
 질문2 : 누가 val은 변수인데 setter가 할당되지 않아 상수처럼 보인다고 하는데 맞는 말이야?
 
+그에 대한 답변이다.
+
+![ChatGPTAnswer2](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/ChatGPTAnswer2.PNG)
+
+역시 ChatGPT다. :smily_cat:
+
+쉽게 말하면
