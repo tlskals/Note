@@ -45,3 +45,12 @@ fun main() {
 # val (Value)
 
 다음으로 val에 대한 설명이다.
+
+이 또한 이해하기 쉽게 코드를 작성하였다.
+
+```kotlin
+fun main() {  
+    var myName = "시나민"  
+    print("내 이름은 " + myName)  
+}
+```
