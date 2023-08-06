@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/변수 , val과 var.md",
+                "file": "Kotlin/변수 , var과 val.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/변수 , val과 var.md",
+                "file": "Kotlin/변수 , var과 val.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/변수 , val과 var.md",
+                "file": "Kotlin/변수 , var과 val.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/변수 , val과 var.md"
+                "file": "Kotlin/변수 , var과 val.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "72e9bf11a78db51e",
   "lastOpenFiles": [
     "Android Studio/Android Studio.md",
-    "Kotlin/변수 , val과 var.md",
+    "Kotlin/변수 , var과 val.md",
     "Kotlin",
     "LICENSE",
     "Pasted image 20230805170119.png",
