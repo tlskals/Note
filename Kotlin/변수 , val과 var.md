@@ -21,7 +21,7 @@ fun main() {
 
 이 코드를 실행시키면 다음과 같은 결과가 나온다.
 
-![var결과](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/var결과1.PNG)
+![var결과1](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/var결과1.PNG)
 
 이번에는 myName이라는 변수에 값을 할당한 코드이다.
 
@@ -35,3 +35,6 @@ fun main() {
 
 이 코드의 결과 값은 다음과 같다.
 
+![var결과2](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/var결과2.PNG)
+
+`즉 var라는 변수는 
