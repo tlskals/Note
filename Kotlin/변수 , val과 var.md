@@ -63,4 +63,5 @@ var 변수 초기 결과와 같은 결과가 나온다.
 
 var 때와 마찬가지로 myName의 값을 수정해보았다.
 
-![val수정](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/var결과2.PNG)
+![val수정](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/val수정.PNG)
+
