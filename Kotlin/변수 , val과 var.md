@@ -23,4 +23,15 @@ fun main() {
 
 ![var결과](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/var결과1.PNG)
 
-이번에는 my
+이번에는 myName이라는 변수에 값을 할당한 코드이다.
+
+```kotlin
+fun main() {  
+    var myName = "시나민"  
+    myName = "시나민이 아닙니다."  
+    print("내 이름은 " + myName)  
+}
+```
+
+이 코드의 결과 값은 다음과 같다.
+
