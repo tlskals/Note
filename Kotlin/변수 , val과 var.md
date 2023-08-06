@@ -115,6 +115,6 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rndrnjs2003&
 
 ![ChatGPTAnswer2](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/ChatGPTAnswer2.PNG)
 
-역시 ChatGPT다. :smily_cat:
+역시 ChatGPT다. 
 
 쉽게 말하면
