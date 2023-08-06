@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/변수 , val과 var.md",
+                "file": "Android Studio/Android Studio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/변수 , val과 var.md",
+                "file": "Android Studio/Android Studio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/변수 , val과 var.md",
+                "file": "Android Studio/Android Studio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/변수 , val과 var.md"
+                "file": "Android Studio/Android Studio.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "72e9bf11a78db51e",
+  "active": "9e01a24a379fe51f",
   "lastOpenFiles": [
-    "Android Studio/Android Studio.md",
     "Kotlin/변수 , val과 var.md",
+    "Android Studio/Android Studio.md",
     "Kotlin",
     "LICENSE",
     "Pasted image 20230805170119.png",
