@@ -89,4 +89,6 @@ valGoogling
 
 대부분의 포스팅에서 val는 상수로 정의하고 있다.
 
-그런데 어떤 블로그에서 
+그런데 어떤 블로그에서 신기한 내용을 발견했다.
+
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rndrnjs2003&logNo=221328830006
