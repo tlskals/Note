@@ -85,7 +85,7 @@ Val Cannot be reassigned
 
 Google에 검색해보았다.
 
-valGoogling
+![valGoogling](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/valGoogling.PNG)
 
 대부분의 포스팅에서 val는 상수로 정의하고 있다.
 
@@ -103,3 +103,4 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rndrnjs2003&
 
 답변은 다음과 같았다.
 
+![valGoogling](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/valGoogling.PNG)
