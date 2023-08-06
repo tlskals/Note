@@ -2,4 +2,7 @@
 
 ## fun main()
 
-function
+```kotlin
+fun main() {}
+```
+fun = function
