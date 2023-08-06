@@ -92,3 +92,7 @@ valGoogling
 그런데 어떤 블로그에서 신기한 내용을 발견했다.
 
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rndrnjs2003&logNo=221328830006
+
+이 블로그의 내용을 보자면
+
+**val는 상수가 아닌 변수이지만 내부에 setter를 갖고 있지 않아 수정이 불가능 할 뿐이다.** 라는 이야기다
