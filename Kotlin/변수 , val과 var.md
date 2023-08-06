@@ -117,6 +117,6 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rndrnjs2003&
 
 역시 ChatGPT다. :smiley_cat:
 
-정리하자면 var나 val나 둘 다 변수이다.
-
-하지만 var는 getter와
+**정리하자면 var나 val나 둘 다 변수이다.</br>
+하지만 var는 getter와 setter를 모두 가지고 있어 읽기/쓰기가 가능하지만,</br>
+val는 setter만 가지고 있어 읽기만 가능하다.
