@@ -23,3 +23,4 @@ fun main() {
 
 ![var결과](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/var결과1.PNG)
 
+이번에는 my
