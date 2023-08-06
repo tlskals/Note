@@ -121,4 +121,4 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rndrnjs2003&
 val는 setter만 가지고 있어 읽기만 가능하다.**
 
 
-### 결론 : val는 상수가 아닌 읽기 전용(immutable) 변수이다. 
+### 결론 : val는 상수가 아닌 읽기 전용 변수이다. 
