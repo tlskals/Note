@@ -103,4 +103,6 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rndrnjs2003&
 
 답변은 다음과 같았다.
 
-![valGoogling](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/valGoogling.PNG)
+![ChatGPTAnswer1](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/ChatGPTAnswer1.PNG)
+
+"상수를 의미한다 "라고 하면서 읽기 전용 변수를 선언할 수 있다고 한다.
