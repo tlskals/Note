@@ -1,6 +1,11 @@
 
+# 변수
 
-Kotlin에서 변수 선언에는 val (Value) / var (variable) 을 사용한다.
+Kotlin에서 변수 선언에는 val (Value) / var (variable)을 사용한다.
+
+각각에 대해서 이해해보자.
+
+#
 
 이해하기 쉽게 코드를 작성하였다.
 
@@ -14,3 +19,4 @@ fun main() {
 이 코드를 실행시키면 다음과 같은 결과가 나온다.
 
 ![var결과](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/var결과1.PNG)
+
