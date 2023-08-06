@@ -38,7 +38,7 @@ fun main() {
 
 ![var결과2](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/var결과2.PNG)
 
-**즉 var라는 변수는 중간에 값을 수정이 가능하다.
+**즉 var 라는 변수는 중간에 값을 수정이 가능하다.
 
 ------
 
@@ -73,4 +73,8 @@ Val Cannot be reassigned
 
 한국말로 번역하면 "val는 재 할당 될 수 없다."
 
-쉽게 생각하면 상수의 역할을 한다.
+**즉 val 라는 변수는 중간에 값을 수정이 불가능하다.
+
+---------
+
+# 
