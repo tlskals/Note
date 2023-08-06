@@ -67,3 +67,8 @@ var 때와 마찬가지로 myName의 값을 수정해보았다.
 
 왜 빨간 줄이 뜨는지 마우스를 대보았다.
 
+![valErrorLog](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/valErrorLog.PNG)
+
+Val Cannot be reassigned
+
+한국말로 번역하면 val는 재할당 될 수 ㅇ
