@@ -1,12 +1,12 @@
 # 변수
 
-Kotlin에서 변수 선언에는 va을 사용한다.
+Kotlin에서 변수 선언에는 var(Variable)과 val(Value)을 사용한다.
 
 각각에 대해서 이해해보자.
 
 -----------
 
-# var (variable)
+# var (Variable)
 
 먼저 var에 대한 설명이다.
 
