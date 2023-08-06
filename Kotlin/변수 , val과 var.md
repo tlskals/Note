@@ -5,4 +5,5 @@
 ```kotlin
 fun main() {}
 ```
+
 fun = function
