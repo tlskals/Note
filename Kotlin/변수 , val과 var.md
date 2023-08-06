@@ -115,6 +115,8 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rndrnjs2003&
 
 ![ChatGPTAnswer2](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/ChatGPTAnswer2.PNG)
 
-역시 ChatGPT다. 
+역시 ChatGPT다. :smiley_cat:
 
-쉽게 말하면
+정리하자면 var나 val나 둘 다 변수이다.
+
+하지만 var는 getter와
