@@ -65,3 +65,5 @@ var 때와 마찬가지로 myName의 값을 수정해보았다.
 
 ![val수정](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/val수정.PNG)
 
+왜 빨간 줄이 뜨는지 마우스를 대보았다.
+
