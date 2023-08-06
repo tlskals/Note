@@ -97,4 +97,9 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rndrnjs2003&
 
 **"val는 상수가 아닌 변수이지만 내부에 setter를 갖고 있지 않아 수정이 불가능 할 뿐이다."** 라는 이야기다.
 
-이 부분에 대해 좀 더 의구심이 생겨 chatGPT를 
+이 부분에 대해 좀 더 의구심이 생겨 ChatGPT를 사용했다.
+
+질문 : Val는 변수야? 상수야?
+
+답변은 다음과 같았다.
+
