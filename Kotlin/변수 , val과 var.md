@@ -13,4 +13,4 @@ fun main() {
 
 이 코드를 실행시키면 다음과 같은 결과가 나온다.
 
-![var결과](https://raw.githubusercontent.com/tlskals/img/main/img/kotlin/var결과1.PNG)
+![var결과](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/var결과1.PNG)
