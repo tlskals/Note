@@ -37,4 +37,4 @@ fun main() {
 
 ![var결과2](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/var결과2.PNG)
 
-`즉 var라는 변수는 
+`즉 var라는 변수는 중간에 값을 수정이 가능하다.`
