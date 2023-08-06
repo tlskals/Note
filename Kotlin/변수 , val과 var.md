@@ -57,3 +57,10 @@ fun main() {
 
 위 코드의 결과 값은 다음과 같다.
 
+![val결과](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/val결과.PNG)
+
+var 변수 초기 결과와 같은 결과가 나온다.
+
+var 때와 마찬가지로 myName의 값을 수정해보았다.
+
+![val수정](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/var결과2.PNG)
