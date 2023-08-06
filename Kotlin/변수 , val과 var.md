@@ -99,10 +99,15 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rndrnjs2003&
 
 이 부분에 대해 좀 더 의구심이 생겨 ChatGPT를 사용했다.
 
-질문 : Val는 변수야? 상수야?
+질문1 : Val는 변수야? 상수야?
 
 답변은 다음과 같았다.
 
 ![ChatGPTAnswer1](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/ChatGPTAnswer1.PNG)
 
-"상수를 의미한다 "라고 하면서 읽기 전용 변수를 선언할 수 있다고 한다.
+"상수를 의미한다 "라고 하면서 "읽기 전용 변수를 선언할 수 있다"고 한다.
+
+더 정확히 알기 위해 추가 질문을 던졌다.
+
+질문2 : 누가 val은 변수인데 setter가 할당되지 않아 상수처럼 보인다고 하는데 맞는 말이야?
+
