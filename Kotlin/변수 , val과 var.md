@@ -83,4 +83,8 @@ Val Cannot be reassigned
 
 그렇다면 val는 변수가 아닌 상수인가? 라는 의문이 들었다.
 
-g
+Google에 검색해보았다.
+
+valGoogling
+
+댑
