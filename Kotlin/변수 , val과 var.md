@@ -77,4 +77,6 @@ Val Cannot be reassigned
 
 ---------
 
-# 
+# val는 상수인가?
+
+앞서 보았듯이 val라는 변수는 값은 한 번 할당되면
