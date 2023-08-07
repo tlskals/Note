@@ -80,3 +80,6 @@ var quiz = true
 
 이게 끝이다.
 
+![varboolean](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/varboolean.PNG)
+
+변수에 할당된 값이 true / false의 경우 자동으로 boolean 으로 식별한다.
