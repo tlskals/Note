@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log.md",
+                "file": "Android Studio/Android Studio.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Log.md",
+                "file": "Android Studio/Android Studio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Log.md",
+                "file": "Android Studio/Android Studio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Log.md"
+                "file": "Android Studio/Android Studio.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "6cfc9db34b2337be",
   "lastOpenFiles": [
-    "Kotlin/변수 , var과 val.md",
     "Log.md",
+    "Kotlin/변수 , var과 val.md",
     "Android Studio/Android Studio.md",
     "Kotlin",
     "LICENSE",
