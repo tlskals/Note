@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cfc9db34b2337be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/변수 , var과 val.md",
+                "file": "Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/변수 , var과 val.md",
+                "file": "Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/변수 , var과 val.md"
+                "file": "Log.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "72e9bf11a78db51e",
+  "active": "6cfc9db34b2337be",
   "lastOpenFiles": [
-    "Android Studio/Android Studio.md",
     "Kotlin/변수 , var과 val.md",
+    "Log.md",
+    "Android Studio/Android Studio.md",
     "Kotlin",
     "LICENSE",
     "Pasted image 20230805170119.png",
