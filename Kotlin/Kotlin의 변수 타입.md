@@ -69,3 +69,14 @@ var number = 10.101010F
 ```java
 boolean quiz = true;
 ```
+
+이런 식으로 변수 선언이 반드시 필요하다.
+
+하지만 Kotlin에서는 다르다.
+
+```kotlin
+var quiz = true
+```
+
+이게 끝이다.
+
