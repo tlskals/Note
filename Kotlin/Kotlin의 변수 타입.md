@@ -52,4 +52,6 @@ var number = 10.101010
 
 ![vardouble](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/vardouble.PNG)
 
-실수를 입력하면 기본 타입이 로 설정되는 것을 볼 수 있다.
+실수를 입력하면 기본 타입이 Double로 설정되는 것을 볼 수 있다.
+
+만약
