@@ -63,3 +63,9 @@ var number = 10.101010F
 -----
 
 # 논리형 변수
+
+논리형 변수인 Boolean을 자바에서 선언하기 위해서는
+
+```java
+boolean quiz = true;
+```
