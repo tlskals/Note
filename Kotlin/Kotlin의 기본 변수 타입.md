@@ -15,7 +15,7 @@ Kotlin은 자바와 다르게 변수의 타입을 따로 지정하지 않아도
 |short|2 byte|-2<sup>15</sup> ~ (2<sup>15</sup>-1)|
 |int|4 byte|-2<sup>31</sup> ~ (2<sup>31</sup>-1)|
 |long|8 byte|-2<sup>63</sup> ~ (2<sup>63</sup>-1)|
-|float|4 btye|(+/-)1.4E-45
+|float|4 btye|-3.4 * 10
 
 
 
