@@ -21,8 +21,9 @@ Android 스튜디오는 Android 앱 개발을 위한 공식 통합 개발 환경
 
 Android Studio는 아래 링크에서 설치할 수 있다.
 
-https://developer.android.com/studio
+### https://developer.android.com/studio
 
+아래 링크에서는 지난 버전을 골라 설치할 수 있다.
 ### https://developer.android.com/studio/archive?hl=ko
 
 
