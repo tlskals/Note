@@ -28,6 +28,7 @@ var number = 10
 
 결과
 
+![varint](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/varint.PNG)
 
-
+정수를 입력하면 기본 타입이 Int로 설정되는 것을 볼 수 
 ## 실수
