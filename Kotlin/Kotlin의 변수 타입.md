@@ -32,7 +32,7 @@ var number = 10
 
 정수를 입력하면 기본 타입이 Int로 설정되는 것을 볼 수 있다.
 
-만약 다른 타입의 정수를 사용하고 싶다면 타입을 선언해주면 된다.
+만약 다른 타입의 정수를 사용하고 싶다면 변수 명 뒤에 타입을 선언해주면 된다.
 
 ```kotlin
 var byte : Byte = 1 // Byte  
@@ -82,4 +82,6 @@ var quiz = true
 
 ![varboolean](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/varboolean.PNG)
 
-변수에 할당된 값이 true / false의 경우 자동으로 boolean 으로 식별한다.
+변수에 할당된 값이 true / false의 경우 자동으로 식별한다.
+
+-----
