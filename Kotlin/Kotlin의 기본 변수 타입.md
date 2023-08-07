@@ -11,8 +11,8 @@ Kotlin은 자바와 다르게 변수의 타입을 따로 지정하지 않아도
 
 |타입|메모리 크기|값의 범위|
 |-----|-----|-----|
-|byte|1byte|-2<sup>7</sup> ~ 2<sup>15</sup>-1|
-|
+|byte|1byte|-2<sup>7</sup> ~ 2<sup>15</sup>-1)|
+|short|2byte|-2<sup>15</sup> ~ 1
 
 
 
