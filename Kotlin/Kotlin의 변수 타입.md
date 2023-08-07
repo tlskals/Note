@@ -39,4 +39,17 @@ var byte : Byte = 1 // Byte
 var short : Short = 1 // Short  
 var long : Long = 1 // Long
 ```
+
 ## 실수
+
+실수 타입 number라는 변수를 선언해보았다.
+
+```kotlin
+var number = 10.101010
+```
+
+결과
+
+![vardouble](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/vardouble.PNG)
+
+실수를 입력하면 기본 타입이 Int로 설정되는 것을 볼 수 있다.
