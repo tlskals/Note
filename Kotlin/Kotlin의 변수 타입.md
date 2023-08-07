@@ -30,5 +30,7 @@ var number = 10
 
 ![varint](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/varint.PNG)
 
-정수를 입력하면 기본 타입이 Int로 설정되는 것을 볼 수 
+정수를 입력하면 기본 타입이 Int로 설정되는 것을 볼 수 있다.
+
+만약 다른 타입의 정수를 사용하고 싶다면 타입을 선언해주면 된다.
 ## 실수
