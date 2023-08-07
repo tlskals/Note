@@ -33,4 +33,10 @@ var number = 10
 정수를 입력하면 기본 타입이 Int로 설정되는 것을 볼 수 있다.
 
 만약 다른 타입의 정수를 사용하고 싶다면 타입을 선언해주면 된다.
+
+```kotlin
+var byte : Byte = 1 // Byte  
+var short : Short = 1 // Short  
+var long : Long = 1 // Long
+```
 ## 실수
