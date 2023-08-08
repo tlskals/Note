@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Kotlin의 변수 타입.md",
+                "file": "Kotlin/Kotlin의 if.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Kotlin의 변수 타입.md",
+                "file": "Kotlin/Kotlin의 if.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Kotlin의 변수 타입.md",
+                "file": "Kotlin/Kotlin의 if.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin의 변수 타입.md"
+                "file": "Kotlin/Kotlin의 if.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "6cfc9db34b2337be",
   "lastOpenFiles": [
-    "Kotlin/변수 , var과 val.md",
     "Kotlin/Kotlin의 변수 타입.md",
+    "Kotlin/Kotlin의 if.md",
+    "Kotlin/변수 , var과 val.md",
     "Android Studio/Android Studio.md",
     "Log.md",
     "Kotlin",
