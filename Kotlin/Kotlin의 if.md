@@ -15,9 +15,8 @@ val는 불변인 변수 타입을 지정할 때 사용한다.
 ```kotlin
 var thirsty = true  
   
-if (thirsty){  
+if (thirsty) 
     print("물을 마신다.")  
-}
 ```
 
 varThirsty
