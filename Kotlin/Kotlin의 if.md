@@ -17,3 +17,5 @@ if (thirsty){
 ```
 
 먼저 가변 변수인 var를 넣어보았다.
+
+Android Studio에서 제안이 들어온다.
