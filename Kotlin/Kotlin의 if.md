@@ -10,6 +10,8 @@ val는 불변인 변수 타입을 지정할 때 사용한다.
 
 ## if + var
 
+먼저 가변 변수인 var를 넣어보았다.
+
 ```kotlin
 var thirsty = true  
   
@@ -17,8 +19,6 @@ if (thirsty){
     print("물을 마신다.")  
 }
 ```
-
-먼저 가변 변수인 var를 넣어보았다.
 
 varThirsty
 
@@ -30,4 +30,4 @@ varThirstyResult
 
 ## if + val
 
-당
+다음으로 불변 변수인 val를 넣어보았다.
