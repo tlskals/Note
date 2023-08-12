@@ -29,7 +29,7 @@ public static void main(String[] args) {
 ![java31살](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/java31살.PNG)
 
 ---------
-## $ 
+## 문자열 템플릿 %^
 
 자바에서 작성한 코드를 코틀린으로 옮겨보았다.
 
