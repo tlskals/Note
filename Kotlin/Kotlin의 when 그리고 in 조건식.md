@@ -75,7 +75,7 @@ fun main() {
 
 위 코드에서 a의 변수 타입은 double이므로 출력 값은 다음과 같다.
 
-whendouble
+![whendouble](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/whendouble.PNG)
 
 변수 a의 값을 String으로 바꾸어 보았다.
 
@@ -95,7 +95,7 @@ fun main() {
 
 이 코드의 실행 결과는 다음과 같다.
 
-
+![whenstring](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/whenstring.PNG)
 
 -------------
 ## in 조건식
