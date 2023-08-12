@@ -75,7 +75,7 @@ print문을 "구문" + 변수 + "구문"으로 나누지 않고, </br>
 
 이 코드의 출력 값은 다음과 같다.
 
-kotlin30살
+![kotlin30살](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/kotlin30살.PNG)
 
 kotlin31살
 
