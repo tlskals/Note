@@ -58,6 +58,23 @@ fun main() {
 
 반면 코틀린에서는 in 20..30으로 간단하게 표현할 수 있다.
 
+좀 더 공부해보기 위해 새로운 조건을 설정해보았다.
+
+```kotlin
+fun main() {  
+  
+    var a : Any = 12.34  
+  
+    when(a){  
+        is Int -> println("$a 의 변수 타입은 Int이다.")  
+        is Double -> println("$a 의 변수 타입은 Double이다.")  
+        else -> println("$a 의 변수 타입은 Int나 Double이 아니다.")  
+    }  
+}
+```
+
+
+
 -------------
 ## in 조건식
 
