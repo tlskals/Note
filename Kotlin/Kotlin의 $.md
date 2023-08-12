@@ -40,3 +40,10 @@ fun main() {
 }
 ```
 
+```kotlin
+fun main() {  
+  
+    var age = 30  
+    println("나의 나이는" + (age+1) + "살 입니다.")  
+}
+```
