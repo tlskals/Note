@@ -25,7 +25,7 @@ fun main() {
   
     if (Temperatures > 30)  
         println("Hot!")  
-    else if (Temperatures >= 20)  
+    else if ((Temperatures >= 20 && Temperatures <= 30))  
         println("Cool!")  
     else println("Cold!")  
 }
@@ -49,3 +49,5 @@ fun main() {
 ```
 
  위의 두 코드는 같은 결과 값을 출력한다.
+
+여기서 중요한 점은 
