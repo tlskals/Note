@@ -24,9 +24,9 @@ public static void main(String[] args) {
 
 각각의 코드의 출력 결과는 아래와 같다.
 
-java30살
+![java30살](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/java30살.PNG)
 
-java31살
+![java31살](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/java31살.PNG)
 
 ## $
 
