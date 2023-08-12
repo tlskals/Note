@@ -17,5 +17,7 @@ var Temperatures = 30
 Temperatures 라는 변수를 선언하고 30이라는 값을 할당했다.
 
 ```kotlin
-when(Temperatures) 
+when(Temperatures) {
+30>= ->
+}
 ```
