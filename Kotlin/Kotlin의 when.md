@@ -16,7 +16,7 @@ Temperatures 라는 변수를 설정하고,
 20~30 사이의 값이라면 Cool!
 20 이하의 값이라면 Cold! 를 출력한다.
 
-이 조건을 if문으로 작성해보았다.
+이 조건을 if문으로 코드를 작성해보았다.
 
 ```kotlin
 fun main() {  
@@ -33,7 +33,7 @@ fun main() {
 
 위 코드에서 Temperatures 값은 25이기 때문에 Cool! 이라는 결과 값이 출력된다.
 
-이번에는 when으로 코드를 잓
+이번에는 when문으로 코드를 작성해보았다.
 
 ```kotlin
 when(Temperatures) {
