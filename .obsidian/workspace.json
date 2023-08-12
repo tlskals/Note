@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Kotlin의 when 그리고 조건식.md",
+                "file": "Kotlin/Kotlin의 when 그리고 in 조건식.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Kotlin의 when 그리고 조건식.md",
+                "file": "Kotlin/Kotlin의 when 그리고 in 조건식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Kotlin의 when 그리고 조건식.md",
+                "file": "Kotlin/Kotlin의 when 그리고 in 조건식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin의 when 그리고 조건식.md"
+                "file": "Kotlin/Kotlin의 when 그리고 in 조건식.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "72e9bf11a78db51e",
   "lastOpenFiles": [
     "Kotlin/변수 , var과 val.md",
-    "Kotlin/Kotlin의 when 그리고 조건식.md",
+    "Kotlin/Kotlin의 when 그리고 in 조건식.md",
     "Kotlin/Kotlin의 변수 타입.md",
     "Kotlin/변수 , var과 val - 복사본.md",
     "Kotlin/Kotlin의 if.md",
