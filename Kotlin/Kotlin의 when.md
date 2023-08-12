@@ -14,10 +14,21 @@ Temperatures 라는 변수를 설정하고,
 
 이 값이 30보다 크면 Hot!이라는 값을 출력,
 20~30 사이의 값이라면 Cool!
-20 이하의 값이라면 Cold
+20 이하의 값이라면 Cold! 를 출력한다.
+
+이 조건을 if문으로 작성해보았다.
 
 ```kotlin
-var Temperatures = 30
+fun main() {  
+  
+    var Temperatures = 25  
+  
+    if (Temperatures > 30)  
+        println("Hot!")  
+    else if (Temperatures >= 20)  
+        println("Cool!")  
+    else println("Cold!")  
+}
 ```
 
 Temperatures 라는 변수를 선언하고 30이라는 값을 할당했다.
