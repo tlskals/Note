@@ -22,3 +22,11 @@ public static void main(String[] args) {
 }
 ```
 
+각각의 코드의 출력 결과는 아래와 같다.
+
+java30살
+
+java31살
+
+## $
+
