@@ -12,3 +12,13 @@ public static void main(String[] args) {
 }
 ```
 
+다음은 위 조건문에서 변수에 +1 한 값을 출력한다고 생각해보자.
+
+```java
+    public static void main(String[] args) {  
+        int age = 30;  
+        System.out.println("나의 나이는 " + (age+1) + "살 입니다.");  
+    }  
+}
+```
+
