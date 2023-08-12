@@ -36,7 +36,15 @@ fun main() {
 이번에는 when문으로 코드를 작성해보았다.
 
 ```kotlin
-when(Temperatures) {
-30>= ->
+fun main() {  
+  
+    var Temperatures = 25  
+    
+    when {  
+        Temperatures > 30 -> println("Hot!")  
+        Temperatures in 20..30 -> println("Cool!")  
+        else -> println("Cold!")  
+    }  
 }
 ```
+
