@@ -54,3 +54,20 @@ fun main() {
 
 다음은 $를 사용한 코드이다.
 
+```kotlin
+fun main() {  
+  
+    var age = 30  
+    println("나의 나이는 ${age}살 입니다.")  
+}
+```
+
+```kotlin
+fun main() {  
+  
+    var age = 30  
+    println("나의 나이는 ${age+1}살 입니다.")  
+}
+```
+
+print문을 "구문" + 변수 + "구문"으로 나누지 않고, 
