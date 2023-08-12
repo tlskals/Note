@@ -28,7 +28,8 @@ public static void main(String[] args) {
 
 ![java31살](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/java31살.PNG)
 
-## $
+---------
+## $ 
 
 자바에서 작성한 코드를 코틀린으로 옮겨보았다.
 
@@ -77,6 +78,6 @@ print문을 "구문" + 변수 + "구문"으로 나누지 않고, </br>
 
 ![kotlin30살](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/kotlin30살.PNG)
 
-kotlin31살
+![kotlin31살](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/kotlin31살.PNG)
 
 -----------------
