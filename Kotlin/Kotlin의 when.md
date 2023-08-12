@@ -13,6 +13,8 @@ when 수 많은 조건을 나열하고 할당된 변수가 조건에 만족할 �
 Temperatures 라는 변수를 설정하고,
 
 이 값이 30보다 크면 Hot!이라는 값을 출력,
+20~30 사이의 값이라면 Cool!
+20 이하의 값이라면 Cold
 
 ```kotlin
 var Temperatures = 30
