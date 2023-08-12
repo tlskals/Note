@@ -77,6 +77,23 @@ fun main() {
 
 whendouble
 
+변수 a의 값을 String으로 바꾸어 보았다.
+
+```kotlin
+fun main() {  
+  
+    var a : Any = 12.34  
+  
+    when(a){  
+        is Int -> println("$a 의 변수 타입은 Int이다.")  
+        is Double -> println("$a 의 변수 타입은 Double이다.")  
+        else -> println("$a 의 변수 타입은 Int나 Double이 아니다.")  
+    }  
+}
+
+```
+
+이 코드의 실행 결과는 다음과
 
 -------------
 ## in 조건식
