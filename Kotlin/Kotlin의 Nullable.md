@@ -127,3 +127,17 @@ fun main() {
 
 코드로 알아보자.
 
+```kotlin
+fun main() {  
+  
+    var name : String? = "tlskals"  
+//    name = null  
+  
+    val printname = name ?: "뭘까?"  
+  
+    println("내 이름은 $printname")  
+  
+}
+```
+
+printname
