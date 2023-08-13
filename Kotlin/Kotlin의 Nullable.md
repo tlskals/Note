@@ -105,3 +105,4 @@ lenname
 당연히 컴파일 에러가 발생한다.
 
 해결하려면 name.length를 name?.length로 변경하면 된다.
+
