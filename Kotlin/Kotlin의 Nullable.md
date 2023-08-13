@@ -47,4 +47,4 @@ A.
 ChatGPTString
 
 
-한마디로
+한마디로 String은 자주 사용되는 타입이라 다른 참조 타입과는 다르게 null을 넣었을 때 </br>
