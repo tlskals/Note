@@ -97,7 +97,7 @@ fun main() {
 }
 ```
 
-![lenname(https://raw.githubusercontent.com/tlskals/img/main/Kotlin/nameNull.PNG)
+![lenname](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/lenname.PNG)
 
 당연히 컴파일 에러가 발생한다.
 
@@ -141,7 +141,7 @@ printname 에 보이는 ?:가 엘비스 연산자이다.
 
 이 함수를 실행한 결과는 다음과 같다.
 
-elvisleft
+![elvisleft](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/elvisleft.PNG)
 
 이번엔 주석으로 처리된 코드를 복구해보았다.
 
@@ -160,7 +160,7 @@ fun main() {
 
 위 코드의 실행 결과는 다음과 같다.
 
-elvisright
+![elvisright](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/elvisright.PNG)
 
 ----------------
 
