@@ -54,4 +54,16 @@ ChatGPTString
 
 ----------------------------
 
-다시 코드로 넘어와서
+다시 코드로 넘어와서 그렇다면 nullable 설정은 어떻게 하는 것일까?
+
+간단하다. Type 뒤에 '?' 를 넣어주면 된다.
+
+```kotlin
+fun main() {  
+  
+    var name1 : String? = "tlskals"  
+    name1 = null  
+  
+}
+```
+
