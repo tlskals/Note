@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf2892b88f9988a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Kotlin의 Nullable과 엘비스 연산자.md",
+                "file": "Spring Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Kotlin의 Nullable과 엘비스 연산자.md",
+                "file": "Spring Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin의 Nullable과 엘비스 연산자.md"
+                "file": "Spring Log.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "72e9bf11a78db51e",
+  "active": "bf2892b88f9988a6",
   "lastOpenFiles": [
-    "Kotlin/Kotlin의 when 그리고 in 조건식.md",
     "Kotlin/Kotlin의 Nullable과 엘비스 연산자.md",
+    "Spring Log.md",
+    "Kotlin/Kotlin의 when 그리고 in 조건식.md",
     "Kotlin/변수 , var과 val.md",
     "Kotlin/Kotlin의 $.md",
     "Kotlin/Kotlin의 변수 타입.md",
