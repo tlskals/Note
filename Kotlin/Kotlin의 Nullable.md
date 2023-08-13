@@ -77,7 +77,7 @@ name1Null
 
 그렇다면 nullable을 응용해보자.
 
-## 변수의 Property
+## 변수의 Property에 넣어보기
 
 ```kotlin
 fun main() {  
@@ -116,4 +116,7 @@ fun main() {
   
 }
 ```
+
+## Method에 넣어보기
+
 
