@@ -85,7 +85,7 @@ fun main() {
     }
 ```
 
-위 코드에서 name의 길이를 println으로 출력해보자.
+위 코드에서 name의 길이를 계산해보자.
 
 ```kotlin
 fun main() {  
@@ -95,8 +95,6 @@ fun main() {
   
     var len = name.length  
   
-    println(len)  
-  
 }
 ```
 
@@ -105,4 +103,17 @@ lenname
 당연히 컴파일 에러가 발생한다.
 
 해결하려면 name.length를 name?.length로 변경하면 된다.
+
+```kotlin
+fun main() {  
+  
+    var name : String? = "tlskals"  
+    name = null  
+  
+    var len = name?.length  
+  
+    println(len)  
+  
+}
+```
 
