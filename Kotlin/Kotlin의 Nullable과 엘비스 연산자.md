@@ -70,14 +70,11 @@ fun main() {
 당연히 컴파일 오류가 발생하지 않는다.
 
 name1Null
-
-------------------------------
-
-# Nullable 응용
+## Nullable 응용
 
 그렇다면 nullable을 응용해보자.
 
-## 변수의 Property에 넣어보기
+### 변수의 Property에 넣어보기
 
 ```kotlin
 fun main() {  
@@ -140,4 +137,7 @@ fun main() {
 }
 ```
 
-printname
+printname 에 보이는 ?:가 엘비스 연산자이다.
+
+이 함수를 실행한 결과는 다음과 같다.
+
