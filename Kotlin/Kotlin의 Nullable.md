@@ -77,6 +77,8 @@ name1Null
 
 그렇다면 nullable을 응용해보자.
 
+## 변수의 Property
+
 ```kotlin
 fun main() {  
   
@@ -111,8 +113,6 @@ fun main() {
     name = null  
   
     var len = name?.length  
-  
-    println(len)  
   
 }
 ```
