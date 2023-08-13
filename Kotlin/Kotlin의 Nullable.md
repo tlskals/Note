@@ -85,5 +85,5 @@ fun main() {
     }
 ```
 
-위 코드를 println으로 출력해보자.
+위 코드에서 name의 길이를 println으로 출력해보자.
 
