@@ -87,3 +87,16 @@ fun main() {
 
 위 코드에서 name의 길이를 println으로 출력해보자.
 
+```kotlin
+fun main() {  
+  
+    var name : String? = "tlskals"  
+    name = null  
+  
+    var len = name.length  
+  
+    println(len)  
+  
+}
+```
+
