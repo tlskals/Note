@@ -46,8 +46,7 @@ ChatGPT에게 물어봤다.
 
 A. 
 
-ChatGPTString
-![ChatGPTString](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/nameNull.PNG)
+![ChatGPTString](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/ChatGPTString.PNG)
 
 
 한마디로 String은 자주 사용되는 타입이라 다른 참조 타입과는 다르게 null을 넣었을 때 </br>
@@ -70,7 +69,7 @@ fun main() {
 
 당연히 컴파일 오류가 발생하지 않는다.
 
-name1Null
+![name1Null](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/name1Null.PNG)
 ## Nullable 응용
 
 그렇다면 nullable을 응용해보자.
@@ -98,7 +97,7 @@ fun main() {
 }
 ```
 
-lenname
+![lenname(https://raw.githubusercontent.com/tlskals/img/main/Kotlin/nameNull.PNG)
 
 당연히 컴파일 에러가 발생한다.
 
