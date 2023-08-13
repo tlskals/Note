@@ -141,3 +141,21 @@ printname 에 보이는 ?:가 엘비스 연산자이다.
 
 이 함수를 실행한 결과는 다음과 같다.
 
+elvisleft
+
+이번엔 주석으로 처리된 코드를 복구해보았다.
+
+```kotlin
+fun main() {  
+  
+    var name : String? = "tlskals"  
+    name = null  
+  
+    val printname = name ?: "뭘까?"  
+  
+    println("내 이름은 $printname")  
+  
+}
+```
+
+위 코드의 실행결과는 다음과 가
