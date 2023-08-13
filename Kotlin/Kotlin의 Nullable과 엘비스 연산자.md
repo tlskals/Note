@@ -28,7 +28,7 @@ name이라는 변수를 생성하고 해당 변수의 타입을 String으로 명
 
 당연히 컴파일 오류가 발생한다.
 
-nullName
+![nameNull](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/nameNull.PNG)
 
 -----------------------
 
@@ -47,6 +47,7 @@ ChatGPT에게 물어봤다.
 A. 
 
 ChatGPTString
+![ChatGPTString](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/nameNull.PNG)
 
 
 한마디로 String은 자주 사용되는 타입이라 다른 참조 타입과는 다르게 null을 넣었을 때 </br>
