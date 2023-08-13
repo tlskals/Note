@@ -12,3 +12,4 @@ ex) int, double, bool 등
 # Kotlin의 Nullable
 
 다음 코드를 살펴보자
+
