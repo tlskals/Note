@@ -40,4 +40,11 @@ String은 분명 값 타입이 아닌 참조 타입이다.
 
 ChatGPT에게 물어봤다.
 
-<strong>Q.  String은 참조타입
+<strong>Q.  String은 참조 타입인데 왜 null 값을 할당 받지 못하는 거야?</strong>
+
+A. 
+
+ChatGPTString
+
+
+한마디로
