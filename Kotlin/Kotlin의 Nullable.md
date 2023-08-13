@@ -77,5 +77,13 @@ name1Null
 
 그렇다면 nullable을 응용해보자.
 
+```kotlin
+fun main() {  
+  
+    var name : String? = "tlskals"  
+    name = null  
+    }
+```
 
+위 코드를 println으로 출력해보자.
 
