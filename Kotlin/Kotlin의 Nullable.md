@@ -71,3 +71,11 @@ fun main() {
 
 name1Null
 
+------------------------------
+
+# Nullable 응용
+
+그렇다면 nullable을 응용해보자.
+
+
+
