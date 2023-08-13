@@ -13,3 +13,15 @@ ex) int, double, bool 등
 
 다음 코드를 살펴보자
 
+```kotlin
+fun main() {  
+  
+    var name : String = "tlskals"  
+    name = null  
+
+}
+```
+
+name이라는 변수를 생성하고 해당 변수의 타입을 String으로 명시했다.
+
+그 후 tlskals이라는 값을 할당하고
