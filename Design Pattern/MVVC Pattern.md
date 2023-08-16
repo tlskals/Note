@@ -78,4 +78,8 @@ View Controller의 어떤 메서드를 사용할지에 대해서도 가지고있
 
 ## View Model
 
-MVVM 패턴에서 View Model은 애플리케이션의 핵심 로직을 담고 있다.
+MVVM 패턴에서 View Model은 애플리케이션의 비지니스 로직을 담고 있다.
+
+View에서 이벤트가 발생하면 그에 맞는 비지니스 로직을 수행하고,
+
+Model이 갖고 있는 데이터에 변화를 준다.
