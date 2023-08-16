@@ -52,7 +52,9 @@ Controller 대신 View Model로 교체되었다고 보면 이해하기 쉽다.
 
 View는 View Model을 소유하고, View Model은 Model을 소유하는 구조이다.
 
-또한 MVC 패터
+또한 MVC 패턴에서는 Controller가 주체가 되었다면,
+
+MVVM에서는 View가 주체가 되어 화면을 주도한다.
 
 
 
