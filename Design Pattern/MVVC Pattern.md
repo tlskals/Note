@@ -86,4 +86,6 @@ Model이 갖고 있는 데이터에 변화를 준다.
 
 또한 Model이 변경되면 자동으로 View 또한 변경될 수 있도록
 
-<strong>데이터 바인딩</strong>을
+<strong>데이터 바인딩</strong>을 한다.
+
+##
