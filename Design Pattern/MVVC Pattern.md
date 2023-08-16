@@ -24,6 +24,8 @@ UIkit의 MVC에서는 ViewController가 가장 중요한 역할을 맡는다.
 
 ViewContoller는 View와 Model을 모두 소유하고 있으며,
 
+Model의 notification 및 View와 유저 간의 상호작용
+
 
 
 # MVVM 패턴의 구성
