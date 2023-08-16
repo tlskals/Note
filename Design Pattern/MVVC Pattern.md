@@ -71,6 +71,10 @@ MVVM에서는 View가 주체가 되어 화면을 주도한다.
 
 MVVM 패턴에서 View는 UI에 대한 코드 및 생명주기 코드를 다룬다.
 
-또한 ViewModel로부터 가져온 데이터를 
+또한 ViewModel로부터 가져온 데이터를 어떻게 배치할지, 특정 상황에 따라
 
+View Controller의 어떤 메서드를 사용할지에 대해서도 가지고있다.
+
+
+## View Model
 
