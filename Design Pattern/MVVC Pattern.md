@@ -69,4 +69,6 @@ MVVM에서는 View가 주체가 되어 화면을 주도한다.
 
 ## View
 
-MVVM 패턴에서 View는 UI에 대한 코드 및 
+MVVM 패턴에서 View는 UI에 대한 코드 및 생명주기 코드를 다룬다.
+
+
