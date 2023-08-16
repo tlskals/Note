@@ -24,7 +24,11 @@ UIkit의 MVC에서는 ViewController가 가장 중요한 역할을 맡는다.
 
 ViewContoller는 View와 Model을 모두 소유하고 있으며,
 
-Model의 notification 및 View와 유저 간의 상호작용
+Model의 notification 및 View와 유저 간의 상호작용을 전달하는 방식도 모두
+
+Controller에 대한 Deleagtion 방식으로 이루어져 있다.
+
+이러한 방식은 각 계층의 결합도를 증
 
 
 
