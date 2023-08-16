@@ -18,7 +18,11 @@ MVVM 패턴은 주로 iOS 애플리케이션 개발에 사용되며,
 
 
 
-위 사진은 UIKit의 MVC 패턴의 구조이다.
+위 사진은 MVC 패턴의 구조이다.
+
+UIkit의 MVC에서는 ViewController가 가장 중요한 역할을 맡는다.
+
+Controller는
 
 
 
