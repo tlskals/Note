@@ -28,7 +28,11 @@ Model의 notification 및 View와 유저 간의 상호작용을 전달하는 방
 
 Controller에 대한 Deleagtion 방식으로 이루어져 있다.
 
-이러한 방식은 각 계층의 결합도를 증
+이러한 방식은 각 계층의 결합도를 증가시켜 재사용성과 테스트 측면에서
+
+불리하다.
+
+또한 View Controller는 너무 많은 임무를 떠안고 있다.
 
 
 
