@@ -15,7 +15,7 @@ MVVM 패턴은 주로 iOS 애플리케이션 개발에 사용되며,
 
 ## UIKit의 MVC
 
-
+![java30살](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/iosMVC.PNG)
 
 
 이 사진은 MVC 패턴의 구조이다.
