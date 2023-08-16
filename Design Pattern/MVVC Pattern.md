@@ -78,3 +78,4 @@ View Controller의 어떤 메서드를 사용할지에 대해서도 가지고있
 
 ## View Model
 
+MVVM 패턴에서 View Model은 애플리케이션의 핵심 로직을 담고 있다.
