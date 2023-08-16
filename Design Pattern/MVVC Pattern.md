@@ -83,3 +83,5 @@ MVVM 패턴에서 View Model은 애플리케이션의 비지니스 로직을 담
 View에서 이벤트가 발생하면 그에 맞는 비지니스 로직을 수행하고,
 
 Model이 갖고 있는 데이터에 변화를 준다.
+
+또한 이러한 Model의 변화를 View에게 notification을 보내준다.
