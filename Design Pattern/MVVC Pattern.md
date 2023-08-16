@@ -101,4 +101,5 @@ MVVM 패턴에서 Model은 그저 데이터만 다루면 된다.
 쉽게 설명하면 다음과 같다.
 
 1.  View에 Event 발생
-2. 
+2.  View는 ViewModel에 Event가 발생했음을 전달
+3. ViewModel은 비지니스 로직을 수행하여 Event 처리
