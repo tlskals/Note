@@ -84,4 +84,6 @@ View에서 이벤트가 발생하면 그에 맞는 비지니스 로직을 수행
 
 Model이 갖고 있는 데이터에 변화를 준다.
 
-또한 이러한 Model의 변화를 View에게 notification을 보내준다.
+또한 Model이 변경되면 자동으로 View 또한 변경될 수 있도록
+
+<strong>데이터 바인딩</strong>을
