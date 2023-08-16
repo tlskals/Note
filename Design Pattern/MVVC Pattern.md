@@ -46,11 +46,13 @@ View에 대한 설정, 수정 등의 코드를 갖고 있기 때문에
 
 이 사진은 MVVM 패턴의 구조이다.
 
-MVC 패턴에서 Con
+Controller 대신 View Model로 교체되었다고 보면 이해하기 쉽다.
 
-Controller가 중간에서 모두를 소유하는 구조가 아닌
+이 패턴은 Controller가 중간에서 모두를 소유하는 구조가 아닌
 
 View는 View Model을 소유하고, View Model은 Model을 소유하는 구조이다.
+
+또한 MVC 패터
 
 
 
