@@ -15,7 +15,7 @@ MVVM 패턴은 주로 iOS 애플리케이션 개발에 사용되며,
 
 ## UIKit의 MVC
 
-![java30살](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/iosMVC.PNG)
+![iosMVC](https://raw.githubusercontent.com/tlskals/img/main/DesignPattern/iosMVC.PNG)
 
 
 이 사진은 MVC 패턴의 구조이다.
@@ -42,7 +42,7 @@ View에 대한 설정, 수정 등의 코드를 갖고 있기 때문에
 
 ## SwiftUI의 MVVM
 
-
+![iosMVVM](https://raw.githubusercontent.com/tlskals/img/main/DesignPattern/iosMVVM.PNG)
 
 이 사진은 MVVM 패턴의 구조이다.
 
@@ -98,7 +98,7 @@ MVVM 패턴에서 Model은 그저 데이터만 다루면 된다.
 
 # MVVM 패턴의 작동 방식
 
-쉽게 설명하면 다음과 같다.
+MVVM 패턴의 작동 방식은 다음과 같다.
 
 1.  View에 Event 발생
 2.  View는 ViewModel에 Event가 발생했음을 전달
