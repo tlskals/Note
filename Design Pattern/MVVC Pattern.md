@@ -96,4 +96,5 @@ MVVM 패턴에서 Model은 그저 데이터만 다루면 된다.
 데이터에 변화가 생기면 View Model에게 notification을 보낸다.
 
 
-# MVVM 패턴의 작ㄷ
+# MVVM 패턴의 작동 방식
+
