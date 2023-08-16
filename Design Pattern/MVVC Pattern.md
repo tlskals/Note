@@ -34,7 +34,9 @@ Controller에 대한 Deleagtion 방식으로 이루어져 있다.
 
 또한 View Controller는 너무 많은 임무를 떠안고 있다.
 
-View, Model을 소유하면서 View에 대한 설정, 수정 등의 코드를 갖고 있기 때문에
+View Controller는 비지니스 로직을 가지면서, 
+
+View에 대한 설정, 수정 등의 코드를 갖고 있기 때문에
 
 안 그래도 강한 결합을 더더욱 분리하기 힘들게 된다.
 
@@ -43,6 +45,8 @@ View, Model을 소유하면서 View에 대한 설정, 수정 등의 코드를 �
 
 
 이 사진은 MVVM 패턴의 구조이다.
+
+Controller가 중간엣
 
 
 
