@@ -7,12 +7,11 @@ MVVM 패턴이란 디자인 패턴 중 하나로
 
 MVVM 패턴은 주로 IOS 애플리케이션 개발에 사용되며,
 
-기존 UIKit 프레임워크에서 SwiftUI로 넘어오면서 점차
+기존 UIKit에서 SwiftUI로 넘어오면서 점차 늘어가는 추세이다
 
 
 
 # MVVM 패턴의 구성
-
 
 MVC 패턴이 Model - View - Controller로 구성되어 있다면,
 
