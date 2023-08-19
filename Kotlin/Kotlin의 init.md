@@ -84,4 +84,10 @@ ChatGPTinit3
 2. 메서드는 호출되서 실행되지만, init은 자동으로 실행된다.
 3. 초기화 목적으로만 사용되기 때문에 가독성이 좋아진다.
 4. 협업을 할 때 일관된 패턴을 사용하면 다른 개발자가 이해하기 쉽다.
-5. 생성자 인수를 기반으로 초기화해야 하는 클래스에서 인수를 다시
+5. 생성자 인수를 기반으로 초기화해야 하는 클래스에서 인수를 다시 전달할 필요가 없다.
+
+5번 내용에 대해서 더 자세히 설명하자면 다음과 같다.
+
+```kotlin
+class Person(val name: String, val age: Int) { init { ("Creating a person named $name, aged $age") } } // Using a regular initialization method class Person(val name: String, val age: Int) { fun initPerson() { // The method needs 'name' and 'age' to be passed explicitly println("Creating a person named $name, aged $age") } }
+```
