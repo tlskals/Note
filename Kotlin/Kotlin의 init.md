@@ -39,8 +39,7 @@ OpenApps 라는 클래스를 정의하고
 
 main 함수를 실행하면 나오는 결과는 다음과 같다.
 
-
-![varint](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/varint.PNG)
+![resultinit](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/resultinit.PNG)
 
 main 함수가 실행될 때마다 test 변수에 있는 OpenApps 클래스가
 
@@ -64,8 +63,8 @@ Q . 코틀린의 init은 메서드야?
 
 A. 
 
-ChatGPTinit1
-ChatGPTinit1
+![ChatGPTinit1](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/ChatGPTinit1.PNG)
+![ChatGPTinit2](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/ChatGPTinit2.PNG)
 
 
 <strong>여기서 의문이 들었다.<br>
@@ -77,7 +76,7 @@ Q . 그럼 regularMethod처럼 함수를 넣으면 되는거아니야? 굳�
 
 A.
 
-ChatGPTinit3
+![ChatGPTinit3](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/ChatGPTinit3.PNG)
 
 이해해보자면 
 
