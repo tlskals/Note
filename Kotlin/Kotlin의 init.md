@@ -63,7 +63,8 @@ Q . 코틀린의 init은 메서드야?
 
 A. 
 
-
+ChatGPTinit1
+ChatGPTinit1
 
 
 <strong>여기서 의문이 들었다.<br>
@@ -71,6 +72,9 @@ A.
 
 ## init과 일반적인 초기화 메서드와의 차이
 
-일단 모르겠어서 ChatGPT한테 물어봤다.
+Q . 그럼 regularMethod처럼 함수를 넣으면 되는거아니야? 굳이 init이라는게 필요해?
 
-Q . 
+A.
+
+ChatGPTinit3
+
