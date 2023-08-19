@@ -39,7 +39,8 @@ OpenApps 라는 클래스를 정의하고
 
 main 함수를 실행하면 나오는 결과는 다음과 같다.
 
-resultinit
+
+![varint](https://raw.githubusercontent.com/tlskals/img/main/Kotlin/varint.PNG)
 
 main 함수가 실행될 때마다 test 변수에 있는 OpenApps 클래스가
 
@@ -108,4 +109,8 @@ initPerson 메서드를 호출하고 name과 age를 전달해야 하지만,
 
 두 번째 예시에서는 다시 전달할 필요가 없다.
 
-즉, init을 사용하면 코드가 더 일관되고 간소화 될 수 있으며,
+즉, init을 사용하면 코드가 더 일관되고 간소화될 수 있으며,
+
+추가 매개변수 전달 없이 생성자 인수에 직접 접근할 수 있다.
+
+--------------
