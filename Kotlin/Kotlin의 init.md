@@ -104,6 +104,8 @@ class Person(val name: String, val age: Int) {
 
 첫 번째 예시에서는 Person 클래스를 초기화 할 때마다
 
-name과 age를 전달해야하지만,
+initPerson 메서드를 호출하고 name과 age를 전달해야 하지만,
 
-두 번째 예시에서는
+두 번째 예시에서는 다시 전달할 필요가 없다.
+
+즉, init을 사용하면 코드가 더 일관되고 간소화 될 수 있으며,
