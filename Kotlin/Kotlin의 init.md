@@ -63,4 +63,4 @@ main 함수가 실행될 때마다 test 변수에 있는 OpenApps 클래스가
 
 굳이 init이 필요한가? </strong>
 
-## init과 
+## init과 일반적인 초기화 메서드와의 차이
