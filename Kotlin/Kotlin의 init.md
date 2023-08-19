@@ -90,16 +90,20 @@ ChatGPTinit3
 
 ```kotlin
 class Person(val name: String, val age: Int) {
-	init {
-		println("Creating a person named $name, aged $age")
-		}
-	}
-	
-class Person(val name: String, val age: Int) {
 	fun initPerson() {
 	println("Creating a person named $name, aged $age")
 	}
 }
+
+class Person(val name: String, val age: Int) {
+	init {
+		println("Creating a person named $name, aged $age")
+		}
+	}
 ```
 
-첫 번째 예시에서는 Person 클래스를 초기화 할 떄마다 
+첫 번째 예시에서는 Person 클래스를 초기화 할 때마다
+
+name과 age를 전달해야하지만,
+
+두 번째 예시에서는
