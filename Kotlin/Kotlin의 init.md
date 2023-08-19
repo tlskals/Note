@@ -53,6 +53,8 @@ main 함수가 실행될 때마다 test 변수에 있는 OpenApps 클래스가
 
 # init에 대한 의문점들
 
+## init은 메서드인가?
+
 결론부터 말하면 init은 메서드가 아닌 Kotlin만의 고유한 특수 기능이다.
 
 <strong>여기서 의문이 들었다.
@@ -61,4 +63,4 @@ main 함수가 실행될 때마다 test 변수에 있는 OpenApps 클래스가
 
 굳이 init이 필요한가? </strong>
 
-Ch
+## init과 
