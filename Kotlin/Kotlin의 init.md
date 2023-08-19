@@ -89,5 +89,12 @@ ChatGPTinit3
 5번 내용에 대해서 더 자세히 설명하자면 다음과 같다.
 
 ```kotlin
-class Person(val name: String, val age: Int) { init { ("Creating a person named $name, aged $age") } } // Using a regular initialization method class Person(val name: String, val age: Int) { fun initPerson() { // The method needs 'name' and 'age' to be passed explicitly println("Creating a person named $name, aged $age") } }
+class Person(val name: String, val age: Int) {
+	init {
+		println("Creating a person named $name, aged $age")
+		}
+	}
+	
+class Person(val name: String, val age: Int) {
+	fun initPerson() { // The method needs 'name' and 'age' to be passed explicitly println("Creating a person named $name, aged $age") } }
 ```
