@@ -61,7 +61,9 @@ main 함수가 실행될 때마다 test 변수에 있는 OpenApps 클래스가
 
 Q . 코틀린의 init은 메서드야?
 
-A. 아니야
+A. 
+
+
 
 
 <strong>여기서 의문이 들었다.<br>
