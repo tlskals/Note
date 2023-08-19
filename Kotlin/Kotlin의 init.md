@@ -35,4 +35,4 @@ class OpenApps() {
 
 OpenApps 라는 클래스를 정의하고
 
-그 안에 init을 4개나 
+그 안에 init을 4개나 집어넣었다.
