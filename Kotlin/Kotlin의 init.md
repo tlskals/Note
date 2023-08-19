@@ -96,5 +96,10 @@ class Person(val name: String, val age: Int) {
 	}
 	
 class Person(val name: String, val age: Int) {
-	fun initPerson() { // The method needs 'name' and 'age' to be passed explicitly println("Creating a person named $name, aged $age") } }
+	fun initPerson() {
+	println("Creating a person named $name, aged $age")
+	}
+}
 ```
+
+첫 번째 예시에서는 Person 클래스를 초기화 할 떄마다 
