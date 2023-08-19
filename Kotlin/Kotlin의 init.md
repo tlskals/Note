@@ -39,3 +39,6 @@ OpenApps 라는 클래스를 정의하고
 
 main 함수를 실행하면 나오는 결과는 다음과 같다.
 
+resultinit
+
+main 함수가 실행될 때마다 test 변수에 있는 OpenApps 클래스가
