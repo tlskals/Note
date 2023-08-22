@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Android Studio.md",
+                "file": "Android/Jetpack Compose.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Android Studio.md",
+                "file": "Android/Jetpack Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Android Studio.md",
+                "file": "Android/Jetpack Compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Android Studio.md"
+                "file": "Android/Jetpack Compose.md"
               }
             }
           }
@@ -146,9 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9e01a24a379fe51f",
+  "active": "72e9bf11a78db51e",
   "lastOpenFiles": [
+    "Android/Android Studio.md",
     "Android/AAC (Android Architecture Components).md",
+    "Android/Jetpack Compose.md",
     "Kotlin/Kotlin의 Interface (추가필요).md",
     "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
     "Kotlin/Kotlin의 상속 (추가필요).md",
@@ -164,7 +166,6 @@
     "Pasted image 20230812154038.png",
     "Kotlin/변수 , var과 val - 복사본.md",
     "Kotlin/Kotlin의 if.md",
-    "Android/Android Studio.md",
     "Log.md",
     "Kotlin",
     "LICENSE",
