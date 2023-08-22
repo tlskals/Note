@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose.md",
+                "file": "Android/AndroidManifest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Jetpack Compose.md",
+                "file": "Android/AndroidManifest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Jetpack Compose.md",
+                "file": "Android/AndroidManifest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Jetpack Compose.md"
+                "file": "Android/AndroidManifest.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "72e9bf11a78db51e",
   "lastOpenFiles": [
+    "Android/Jetpack Compose.md",
+    "Android/AndroidManifest.md",
     "Android/Android Studio.md",
     "Android/AAC (Android Architecture Components).md",
-    "Android/Jetpack Compose.md",
     "Kotlin/Kotlin의 Interface (추가필요).md",
     "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
     "Kotlin/Kotlin의 상속 (추가필요).md",
