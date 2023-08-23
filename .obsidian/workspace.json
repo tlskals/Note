@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Flag.md",
+                "file": "Android/Logcat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Flag.md",
+                "file": "Android/Logcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Flag.md",
+                "file": "Android/Logcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Flag.md"
+                "file": "Android/Logcat.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9e01a24a379fe51f",
+  "active": "72e9bf11a78db51e",
   "lastOpenFiles": [
-    "Android/AndroidManifest.md",
     "Android/Flag.md",
+    "Android/Logcat.md",
+    "Android/AndroidManifest.md",
     "Android/Jetpack Compose.md",
     "Android/Android Studio.md",
     "Android/AAC (Android Architecture Components).md",
