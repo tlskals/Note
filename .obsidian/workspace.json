@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexadeciaml System.md",
+                "file": "Mobile Application/Hexadeciaml System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98df621811c6533a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/MVVC Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexadeciaml System.md",
+                "file": "Design Pattern/MVVC Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexadeciaml System.md",
+                "file": "Design Pattern/MVVC Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexadeciaml System.md"
+                "file": "Design Pattern/MVVC Pattern.md"
               }
             }
           }
@@ -159,16 +171,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1f108bdcecdea422",
+  "active": "98df621811c6533a",
   "lastOpenFiles": [
-    "Android/App Icon 바꾸기.md",
-    "Hexadeciaml System.md",
     "Android/Logcat.md",
     "Android/Jetpack Compose.md",
     "Android/Flag.md",
+    "Android/App Icon 바꾸기.md",
     "Android/AndroidManifest.md",
     "Android/Android Studio.md",
     "Android/AAC (Android Architecture Components).md",
+    "Mobile Application/SP, DP, PIXEL.md",
+    "Mobile Application",
+    "Mobile Application/Hexadeciaml System.md",
     "Kotlin/Kotlin의 Interface (추가필요).md",
     "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
     "Kotlin/Kotlin의 상속 (추가필요).md",
