@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/AndroidManifest.md",
+                "file": "Design Pattern/MVVC Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/AndroidManifest.md",
+                "file": "Design Pattern/MVVC Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/AndroidManifest.md",
+                "file": "Design Pattern/MVVC Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/AndroidManifest.md"
+                "file": "Design Pattern/MVVC Pattern.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "98df621811c6533a",
   "lastOpenFiles": [
+    "Android/AndroidManifest.md",
     "Android/Android Studio.md",
     "Android/AAC (Android Architecture Components).md",
     "Design Pattern/MVVC Pattern.md",
@@ -180,7 +181,6 @@
     "Android/Jetpack Compose.md",
     "Android/Flag.md",
     "Android/App Icon 바꾸기.md",
-    "Android/AndroidManifest.md",
     "Mobile Application/SP, DP, PIXEL.md",
     "Mobile Application",
     "Mobile Application/Hexadeciaml System.md",
