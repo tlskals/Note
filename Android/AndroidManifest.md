@@ -8,3 +8,32 @@ Android 프로젝트를 생성하면 기본적으로 MainActivity, res 패키지
 그런데 프로젝트 최상단에 보면 manifests란 폴더가 있고,
 
 그 안에 AndroidManifest.xml 이라는 파일이 존재한다.
+
+그 예시는 다음과 같다.
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>  
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"  
+    xmlns:tools="http://schemas.android.com/tools">  
+  
+    <application        
+	    android:allowBackup="true"  
+        android:dataExtractionRules="@xml/data_extraction_rules"  
+        android:fullBackupContent="@xml/backup_rules"  
+        android:icon="@mipmap/ic_launcher"  
+        android:label="@string/app_name"  
+        android:roundIcon="@mipmap/ic_launcher_round"  
+        android:supportsRtl="true"  
+        android:theme="@style/Theme.QuizApp"  
+        tools:targetApi="31">  
+        <activity            android:name=".QuizeQeustionsActivity"  
+            android:exported="false" />  
+        <activity            android:name=".MainActivity"  
+            android:exported="true"  
+            android:screenOrientation="portrait">  
+            <intent-filter>                <action android:name="android.intent.action.MAIN" />  
+  
+                <category android:name="android.intent.category.LAUNCHER" />  
+            </intent-filter>        </activity>    </application>  
+</manifest>
+```
