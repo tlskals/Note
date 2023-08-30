@@ -47,4 +47,6 @@ Android 프로젝트를 생성하면 기본적으로 MainActivity, res 패키지
 
 권한, 액티비티 등의 내용을 담고있다.
 
-쉽게 말해서 이 AndroidManifest라는
+쉽게 말해서 이 AndroidManifest.xml 파일은
+
+해당 프로젝트에 적용되는 사양들을 모아놓은 파일이다.
