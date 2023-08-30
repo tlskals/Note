@@ -57,10 +57,11 @@ Android 프로젝트를 생성하면 기본적으로 MainActivity, res 패키지
 
 -----------------------
 
-# Manifest에서 명시하는 내용
+# Manifest에서 명시해야 하는 내용
 
 Manifest에서 정의되는 수 많은 정보 중 반드시 선언되어야 하는 정보들이 있다.
 
 1. 앱의 패키지 이름
-2. 앱의 구성 요소 (Ac)
+2. 앱의 구성 요소 (Activity, Service, Broadcast Recevier, ContentProvider)
 3. 앱에서 필요한 권한
+
