@@ -54,3 +54,4 @@ Android 프로젝트를 생성하면 기본적으로 MainActivity, res 패키지
 -----------------------
 
 # Manifest에서 명시하는 내용
+
