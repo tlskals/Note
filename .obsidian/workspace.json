@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Pattern/MVVC Pattern.md",
+                "file": "Android/AndroidManifest.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Pattern/MVVC Pattern.md",
+                "file": "Android/AndroidManifest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Pattern/MVVC Pattern.md",
+                "file": "Android/AndroidManifest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Pattern/MVVC Pattern.md"
+                "file": "Android/AndroidManifest.md"
               }
             }
           }
@@ -173,13 +173,14 @@
   },
   "active": "98df621811c6533a",
   "lastOpenFiles": [
+    "Android/Android Studio.md",
+    "Android/AAC (Android Architecture Components).md",
+    "Design Pattern/MVVC Pattern.md",
     "Android/Logcat.md",
     "Android/Jetpack Compose.md",
     "Android/Flag.md",
     "Android/App Icon 바꾸기.md",
     "Android/AndroidManifest.md",
-    "Android/Android Studio.md",
-    "Android/AAC (Android Architecture Components).md",
     "Mobile Application/SP, DP, PIXEL.md",
     "Mobile Application",
     "Mobile Application/Hexadeciaml System.md",
@@ -190,7 +191,6 @@
     "Kotlin/Kotlin의 변수 , var과 val.md",
     "Kotlin/Kotlin의 init.md",
     "Kotlin/Kotlin의 변수 타입.md",
-    "Design Pattern/MVVC Pattern.md",
     "Kotlin/Kotlin의 when 그리고 in 조건식.md",
     "Kotlin/Kotlin의 $.md",
     "Design Pattern",
