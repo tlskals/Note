@@ -43,3 +43,4 @@ Android 프로젝트를 생성하면 기본적으로 MainActivity, res 패키지
 </manifest>
 ```
 
+이 XML에는 앱의 이름, Anroid API 버전, 테마 등
