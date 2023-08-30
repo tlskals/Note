@@ -7,4 +7,4 @@ Android 프로젝트를 생성하면 기본적으로 MainActivity, res 패키지
 
 그런데 프로젝트 최상단에 보면 manifests란 폴더가 있고,
 
-그 안에 AndroidManifestㄹ
+그 안에 AndroidManifest.xml 이라는 파일이 존재한다.
