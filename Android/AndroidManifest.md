@@ -26,14 +26,20 @@ Android 프로젝트를 생성하면 기본적으로 MainActivity, res 패키지
         android:supportsRtl="true"  
         android:theme="@style/Theme.QuizApp"  
         tools:targetApi="31">  
-        <activity            android:name=".QuizeQeustionsActivity"  
+        <activity            
+	        android:name=".QuizeQeustionsActivity"  
             android:exported="false" />  
-        <activity            android:name=".MainActivity"  
+        <activity            
+	        android:name=".MainActivity"  
             android:exported="true"  
             android:screenOrientation="portrait">  
-            <intent-filter>                <action android:name="android.intent.action.MAIN" />  
+            <intent-filter>                
+            <action android:name="android.intent.action.MAIN" />  
   
                 <category android:name="android.intent.category.LAUNCHER" />  
-            </intent-filter>        </activity>    </application>  
+            </intent-filter>        
+        </activity>    
+    </application>  
 </manifest>
 ```
+
