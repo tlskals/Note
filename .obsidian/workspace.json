@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Pattern/MVVC Pattern.md",
+                "file": "Android/Jetpack Compose.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Pattern/MVVC Pattern.md",
+                "file": "Android/Jetpack Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Pattern/MVVC Pattern.md",
+                "file": "Android/Jetpack Compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Pattern/MVVC Pattern.md"
+                "file": "Android/Jetpack Compose.md"
               }
             }
           }
@@ -173,10 +173,10 @@
   },
   "active": "98df621811c6533a",
   "lastOpenFiles": [
+    "Design Pattern/MVVC Pattern.md",
     "Android/AndroidManifest.md",
     "Android/Android Studio.md",
     "Android/AAC (Android Architecture Components).md",
-    "Design Pattern/MVVC Pattern.md",
     "Android/Logcat.md",
     "Android/Jetpack Compose.md",
     "Android/Flag.md",
