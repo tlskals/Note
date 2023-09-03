@@ -99,6 +99,10 @@ Manifest에서 정의되는 수 많은 정보 중 반드시 선언되어야 하�
             android:exported="false">  
             <intent-filter>                
             <action android:name="com.example.myapplication.ALARM_TRIGGERED" />  
-            </intent-filter>        </receiver>    </application></manifest>
+            </intent-filter>
+         </receiver>
+     </application>
+</manifest>
 ```
 
+이 코드에서 보면
