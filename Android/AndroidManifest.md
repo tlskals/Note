@@ -142,3 +142,8 @@ package="com.example.alarmmanager"
 ### Service
 
 UI와 별개로 작업을 수행하는 백그라운드 구성요소이다.
+예를 들면 알람 어플리케이션을 종료해도 정해진 시간에 알람 어플리케이션이
+동작하는 것을 생각하면 된다.
+
+### Broadcast Receiver
+
