@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile Application/DPI, PIXEL, DP, SP.md",
+                "file": "Mobile Application/DPI, DP, SP, PX.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile Application/DPI, PIXEL, DP, SP.md",
+                "file": "Mobile Application/DPI, DP, SP, PX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile Application/DPI, PIXEL, DP, SP.md",
+                "file": "Mobile Application/DPI, DP, SP, PX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mobile Application/DPI, PIXEL, DP, SP.md"
+                "file": "Mobile Application/DPI, DP, SP, PX.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
     "Android/AndroidManifest.md",
-    "Mobile Application/DPI, PIXEL, DP, SP.md",
+    "Mobile Application/DPI, DP, SP, PX.md",
     "Kotlin/Kotlin의 when 그리고 in 조건식.md",
     "Mobile Application/Hexadeciaml System.md",
     "Android/Logcat.md",
