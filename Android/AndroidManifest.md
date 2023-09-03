@@ -67,7 +67,8 @@ Manifest에서 정의되는 수 많은 정보 중 반드시 선언되어야 하�
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>  
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"  
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.example.alarmmanager"
     xmlns:tools="http://schemas.android.com/tools">  
   
     <uses-permission android:name="android.permission.SET_ALARM" />  
