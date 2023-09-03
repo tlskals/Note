@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Logcat.md",
+                "file": "Mobile Application/Hexadeciaml System.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Logcat.md",
+                "file": "Mobile Application/Hexadeciaml System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Logcat.md",
+                "file": "Mobile Application/Hexadeciaml System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Logcat.md"
+                "file": "Mobile Application/Hexadeciaml System.md"
               }
             }
           }
@@ -185,16 +185,16 @@
   },
   "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
+    "Mobile Application/SP, DP, PIXEL.md",
+    "Android/Logcat.md",
     "Android/AndroidManifest.md",
     "Android/Android Studio.md",
     "Android/AlarmManager.md",
     "Design Pattern/MVVC Pattern.md",
     "Android/AAC (Android Architecture Components).md",
-    "Android/Logcat.md",
     "Android/Jetpack Compose.md",
     "Android/Flag.md",
     "Android/App Icon 바꾸기.md",
-    "Mobile Application/SP, DP, PIXEL.md",
     "Mobile Application",
     "Mobile Application/Hexadeciaml System.md",
     "Kotlin/Kotlin의 Interface (추가필요).md",
