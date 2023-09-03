@@ -136,4 +136,4 @@ package="com.example.alarmmanager"
 
 ### Activity
 
-애플리케이션의 UI와 
+애플리케이션의 UI와 사용자 상호작용을 나타낸다.
