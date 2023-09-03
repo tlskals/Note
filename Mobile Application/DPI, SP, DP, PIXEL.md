@@ -9,6 +9,8 @@
 
 # DPI
 
-AndroidDPI
+DPI란 Dot Per Inch의 약자로 1Inch당 몇 개의 도트로 구성되어 있는지 나타내는 단위이다.
 
-DPI란 Dot Per Inch의 약자로
+DPI
+
+위 사진에서 볼 수 있듯, 72d
