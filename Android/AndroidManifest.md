@@ -137,3 +137,8 @@ package="com.example.alarmmanager"
 ### Activity
 
 애플리케이션의 UI와 사용자 상호작용을 나타낸다.
+앱에서 사용되는 모든 Activity들은 Manifest에 명시되어야 한다.
+
+### Service
+
+UI와 별개로 작업을 수행하는 백그라운드 구성요소이다.
