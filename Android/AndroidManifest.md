@@ -157,3 +157,14 @@ UI와 별개로 작업을 수행하는 백그라운드 구성요소이다.
 
 ## 앱에서 필요한 권한
 
+위 코드  상단 8번째 줄부터 보면
+
+```xml
+    <uses-permission android:name="android.permission.SET_ALARM" />  
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />  
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />  
+```
+
+이와 같이 uses-permission으로 작성된 코드들이 있다.
+
+쉽게 생각하면 이 애플리
