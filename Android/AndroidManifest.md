@@ -133,3 +133,6 @@ package="com.example.alarmmanager"
 올바른 패키지 이름을 사용하면 코드와 리소스가 일관성있게 구성된다.
 
 ## 앱의 구성 요소
+
+### Activity
+
