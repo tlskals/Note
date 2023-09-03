@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fce3983fba7c31a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/AndroidManifest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Jetpack Compose.md",
+                "file": "Android/AndroidManifest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Jetpack Compose.md",
+                "file": "Android/AndroidManifest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Jetpack Compose.md"
+                "file": "Android/AndroidManifest.md"
               }
             }
           }
@@ -171,11 +183,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "98df621811c6533a",
+  "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
+    "Android/Android Studio.md",
+    "Android/AlarmManager.md",
     "Design Pattern/MVVC Pattern.md",
     "Android/AndroidManifest.md",
-    "Android/Android Studio.md",
     "Android/AAC (Android Architecture Components).md",
     "Android/Logcat.md",
     "Android/Jetpack Compose.md",
