@@ -36,7 +36,7 @@ DP란 안드로이드 디바이스에 존재하는 해상도(hdpi, mdpi 등)을 
 
 -----------------
 
-# SP 
+# SP (Scalable Pixel)
 
 
 
