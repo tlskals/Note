@@ -17,6 +17,10 @@ DPI
 
 하지만 애플리케이션에서는 이 dpi를 더 큰 분류로 사용한다.
 
-app dpi
+AppDPI
 
-이 
+hdpi / mdpi / xhdpi / xxhdpi / xxxhdpi 로 구성되어 있는 것을 볼 수있다.
+
+이는 아래 사진처럼 각각의 요소가 정해져 있다.
+
+AndroidDPI
