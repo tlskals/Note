@@ -89,14 +89,16 @@ Manifest에서 정의되는 수 많은 정보 중 반드시 선언되어야 하�
 	        android:name=".MainActivity"  
             android:exported="true">  
             <intent-filter>                
-            <action android:name="android.intent.action.MAIN" />  
+	            <action android:name="android.intent.action.MAIN" />  
                 <category android:name="android.intent.category.LAUNCHER"/> 
             </intent-filter>
-                  </activity>  
-        <receiver            android:name=".AlarmReceiver"  
+         </activity>  
+        <receiver            
+	        android:name=".AlarmReceiver"  
             android:enabled="true"  
             android:exported="false">  
-            <intent-filter>                <action android:name="com.example.myapplication.ALARM_TRIGGERED" />  
+            <intent-filter>                
+            <action android:name="com.example.myapplication.ALARM_TRIGGERED" />  
             </intent-filter>        </receiver>    </application></manifest>
 ```
 
