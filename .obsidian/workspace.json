@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile Application/DPI, DP, SP, PX.md",
+                "file": "Android/Logcat.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile Application/DPI, DP, SP, PX.md",
+                "file": "Android/Logcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile Application/DPI, DP, SP, PX.md",
+                "file": "Android/Logcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mobile Application/DPI, DP, SP, PX.md"
+                "file": "Android/Logcat.md"
               }
             }
           }
@@ -173,6 +173,12 @@
   },
   "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
+    "Android/Jetpack Compose.md",
+    "Kotlin/Kotlin의 상속 (추가필요).md",
+    "Kotlin/Kotlin의 Nullable과 엘비스 연산자.md",
+    "Kotlin/Kotlin의 Interface (추가필요).md",
+    "Kotlin/Kotlin의 init.md",
+    "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
     "Kotlin/Kotlin의 when 그리고 in 조건식.md",
     "Mobile Application/DPI, DP, SP, PX.md",
     "Android/AndroidManifest.md",
@@ -182,16 +188,10 @@
     "Android/AlarmManager.md",
     "Design Pattern/MVVC Pattern.md",
     "Android/AAC (Android Architecture Components).md",
-    "Android/Jetpack Compose.md",
     "Android/Flag.md",
     "Android/App Icon 바꾸기.md",
     "Mobile Application",
-    "Kotlin/Kotlin의 Interface (추가필요).md",
-    "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
-    "Kotlin/Kotlin의 상속 (추가필요).md",
-    "Kotlin/Kotlin의 Nullable과 엘비스 연산자.md",
     "Kotlin/Kotlin의 변수 , var과 val.md",
-    "Kotlin/Kotlin의 init.md",
     "Kotlin/Kotlin의 변수 타입.md",
     "Kotlin/Kotlin의 $.md",
     "Design Pattern",

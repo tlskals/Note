@@ -23,7 +23,7 @@ hdpi / mdpi / xhdpi / xxhdpi / xxxhdpi 로 구성되어 있는 것을 볼 수있
 
 이는 아래 사진처럼 각각의 요소가 정해져 있다.
 
-![AndroidDPI](https://raw.githubusercontent.com/tlskals/img/main/MobileApplication/AndroidDPI.PNG)
+![AndroidDPI](https://raw.githubusercontent.com/tlskals/img/main/MobileApplication/AndroidDPI.png)
 
 ------------------
 
