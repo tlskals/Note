@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Kotlin의 when 그리고 in 조건식.md",
+                "file": "Kotlin/Kotlin의 상속 (추가필요).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Kotlin의 when 그리고 in 조건식.md",
+                "file": "Kotlin/Kotlin의 상속 (추가필요).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Kotlin의 when 그리고 in 조건식.md",
+                "file": "Kotlin/Kotlin의 상속 (추가필요).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin의 when 그리고 in 조건식.md"
+                "file": "Kotlin/Kotlin의 상속 (추가필요).md"
               }
             }
           }
@@ -171,8 +171,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9e01a24a379fe51f",
+  "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
+    "Kotlin/Kotlin의 Interface (추가필요).md",
+    "Kotlin/Kotlin의 when 그리고 in 조건식.md",
     "Mobile Application/DPI, DP, SP, PX.md",
     "Android/AlarmManager.md",
     "Android/AAC (Android Architecture Components).md",
@@ -184,10 +186,8 @@
     "Android/Logcat.md",
     "Kotlin/Kotlin의 상속 (추가필요).md",
     "Kotlin/Kotlin의 Nullable과 엘비스 연산자.md",
-    "Kotlin/Kotlin의 Interface (추가필요).md",
     "Kotlin/Kotlin의 init.md",
     "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
-    "Kotlin/Kotlin의 when 그리고 in 조건식.md",
     "Mobile Application/Hexadeciaml System.md",
     "Design Pattern/MVVC Pattern.md",
     "Mobile Application",
