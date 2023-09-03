@@ -62,7 +62,7 @@ Android 프로젝트를 생성하면 기본적으로 MainActivity, res 패키지
 Manifest에서 정의되는 수 많은 정보 중 반드시 선언되어야 하는 정보들이 있다.
 
 1. 앱의 패키지 이름
-2. 앱의 구성 요소 (Activity, Service, Broadcast Recevier, ContentProvider)
+2. 앱의 구성 요소 (Activity, Service, Broadcast Recevier, Content Provider)
 3. 앱에서 필요한 권한
 
 ```xml
@@ -148,4 +148,7 @@ UI와 별개로 작업을 수행하는 백그라운드 구성요소이다.
 ### Broadcast Receiver
 
 시스템 전체에 돌아가는 메세지 또는 이벤트를 수신하고 이에 응답한다.
-예를 들면 전화가 왔을 때 수신, 
+예를 들면 전화가 왔을 때 수신, 정해진 시간이 되었을 때 울리는 알람 등이 있다.
+
+### Content Provider
+
