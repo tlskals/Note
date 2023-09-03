@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile Application/SP, DP, PIXEL.md",
+                "file": "Mobile Application/DPI, SP, DP, PIXEL.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile Application/SP, DP, PIXEL.md",
+                "file": "Mobile Application/DPI, SP, DP, PIXEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile Application/SP, DP, PIXEL.md",
+                "file": "Mobile Application/DPI, SP, DP, PIXEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mobile Application/SP, DP, PIXEL.md"
+                "file": "Mobile Application/DPI, SP, DP, PIXEL.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
     "Mobile Application/Hexadeciaml System.md",
-    "Mobile Application/SP, DP, PIXEL.md",
+    "Mobile Application/DPI, SP, DP, PIXEL.md",
     "Android/Logcat.md",
     "Android/AndroidManifest.md",
     "Android/Android Studio.md",
