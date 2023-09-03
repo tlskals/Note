@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Kotlin의 상속 (추가필요).md",
+                "file": "Android/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Kotlin의 상속 (추가필요).md",
+                "file": "Android/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Kotlin의 상속 (추가필요).md",
+                "file": "Android/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin의 상속 (추가필요).md"
+                "file": "Android/무제 파일.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
+    "Kotlin/Kotlin의 상속 (추가필요).md",
+    "Android/무제 파일.md",
     "Kotlin/Kotlin의 Interface (추가필요).md",
     "Kotlin/Kotlin의 when 그리고 in 조건식.md",
     "Mobile Application/DPI, DP, SP, PX.md",
@@ -184,7 +186,6 @@
     "Android/Flag.md",
     "Android/Jetpack Compose.md",
     "Android/Logcat.md",
-    "Kotlin/Kotlin의 상속 (추가필요).md",
     "Kotlin/Kotlin의 Nullable과 엘비스 연산자.md",
     "Kotlin/Kotlin의 init.md",
     "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
@@ -206,7 +207,6 @@
     "Pasted image 20230803231037.png",
     "Pasted image 20230803224933.png",
     "Android Studio/Android Stuio.md",
-    "Android",
-    "asdf.md"
+    "Android"
   ]
 }
