@@ -112,3 +112,5 @@ Manifest에서 정의되는 수 많은 정보 중 반드시 선언되어야 하�
 ```xml
 package="com.example.alarmmanager"
 ```
+
+이렇게 패키지 명을 명시해 놓고있다.
