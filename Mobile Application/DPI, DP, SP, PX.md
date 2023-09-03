@@ -12,6 +12,7 @@
 DPI란 1Inch당 몇 개의 도트로 구성되어 있는지 나타내는 단위이다.
 
 DPI
+![DPI](https://raw.githubusercontent.com/tlskals/img/main/MobileApplication/DPI.PNG)
 
 위 사진에서 볼 수 있듯, 72 dpi는 가로 세로 각각 72x72 dot로 구성되어 있다.
 
