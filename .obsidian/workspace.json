@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "1f108bdcecdea422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mobile Application/Hexadeciaml System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "98df621811c6533a",
             "type": "leaf",
             "state": {
@@ -49,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile Application/Hexadeciaml System.md",
+                "file": "Mobile Application/SP, DP, PIXEL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile Application/Hexadeciaml System.md",
+                "file": "Mobile Application/SP, DP, PIXEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile Application/Hexadeciaml System.md",
+                "file": "Mobile Application/SP, DP, PIXEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mobile Application/Hexadeciaml System.md"
+                "file": "Mobile Application/SP, DP, PIXEL.md"
               }
             }
           }
@@ -185,6 +173,7 @@
   },
   "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
+    "Mobile Application/Hexadeciaml System.md",
     "Mobile Application/SP, DP, PIXEL.md",
     "Android/Logcat.md",
     "Android/AndroidManifest.md",
@@ -196,7 +185,6 @@
     "Android/Flag.md",
     "Android/App Icon 바꾸기.md",
     "Mobile Application",
-    "Mobile Application/Hexadeciaml System.md",
     "Kotlin/Kotlin의 Interface (추가필요).md",
     "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
     "Kotlin/Kotlin의 상속 (추가필요).md",
