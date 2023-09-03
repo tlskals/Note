@@ -65,3 +65,38 @@ Manifest에서 정의되는 수 많은 정보 중 반드시 선언되어야 하�
 2. 앱의 구성 요소 (Activity, Service, Broadcast Recevier, ContentProvider)
 3. 앱에서 필요한 권한
 
+```xml
+<?xml version="1.0" encoding="utf-8"?>  
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"  
+    xmlns:tools="http://schemas.android.com/tools">  
+  
+    <uses-permission android:name="android.permission.SET_ALARM" />  
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />  
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />  
+  
+    <application        android:allowBackup="true"  
+        android:dataExtractionRules="@xml/data_extraction_rules"  
+        android:fullBackupContent="@xml/backup_rules"  
+        android:icon="@mipmap/ic_launcher"  
+        android:label="@string/app_name"  
+        android:roundIcon="@mipmap/ic_launcher_round"  
+        android:supportsRtl="true"  
+        android:theme="@style/Theme.MyApplication"  
+        tools:targetApi="31">  
+  
+  
+        <activity            
+	        android:name=".MainActivity"  
+            android:exported="true">  
+            <intent-filter>                
+            <action android:name="android.intent.action.MAIN" />  
+                <category android:name="android.intent.category.LAUNCHER"/> 
+            </intent-filter>
+                  </activity>  
+        <receiver            android:name=".AlarmReceiver"  
+            android:enabled="true"  
+            android:exported="false">  
+            <intent-filter>                <action android:name="com.example.myapplication.ALARM_TRIGGERED" />  
+            </intent-filter>        </receiver>    </application></manifest>
+```
+
