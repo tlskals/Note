@@ -136,3 +136,4 @@ package="com.example.alarmmanager"
 
 ### Activity
 
+애플리케이션의 UI와 
