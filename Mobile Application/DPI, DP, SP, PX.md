@@ -11,20 +11,19 @@
 
 DPI란 1Inch당 몇 개의 도트로 구성되어 있는지 나타내는 단위이다.
 
-DPI
 ![DPI](https://raw.githubusercontent.com/tlskals/img/main/MobileApplication/DPI.PNG)
 
 위 사진에서 볼 수 있듯, 72 dpi는 가로 세로 각각 72x72 dot로 구성되어 있다.
 
 하지만 애플리케이션에서는 이 dpi를 더 큰 분류로 사용한다.
 
-AppDPI
+![AppDPI](https://raw.githubusercontent.com/tlskals/img/main/MobileApplication/AppDPI.PNG)
 
 hdpi / mdpi / xhdpi / xxhdpi / xxxhdpi 로 구성되어 있는 것을 볼 수있다.
 
 이는 아래 사진처럼 각각의 요소가 정해져 있다.
 
-AndroidDPI
+![AndroidDPI](https://raw.githubusercontent.com/tlskals/img/main/MobileApplication/AndroidDPI.PNG)
 
 ------------------
 
