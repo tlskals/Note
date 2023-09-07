@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Flag (추가 필요).md",
+                "file": "Kotlin/Corountine.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Flag (추가 필요).md",
+                "file": "Kotlin/Corountine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Flag (추가 필요).md",
+                "file": "Kotlin/Corountine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Flag (추가 필요).md"
+                "file": "Kotlin/Corountine.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
+    "Android/Flag (추가 필요).md",
+    "Kotlin/Corountine.md",
     "Android/Dialog (추가 필요).md",
     "Android/Async Task (추가 필요).md",
     "Android/Jetpack Compose (추가 필요).md",
@@ -180,7 +182,6 @@
     "Kotlin/Kotlin의 Interface (추가 필요).md",
     "Kotlin/Kotlin의 상속 (추가 필요).md",
     "Android/Logcat (추가 필요).md",
-    "Android/Flag (추가 필요).md",
     "Android/AndroidManifest.md",
     "Android/AlarmManager (추가 필요).md",
     "Android/AAC (Android Architecture Components) (추가 필요).md",
@@ -201,7 +202,6 @@
     "Pasted image 20230812154038.png",
     "Kotlin/변수 , var과 val - 복사본.md",
     "Kotlin/Kotlin의 if.md",
-    "Log.md",
     "Kotlin",
     "LICENSE",
     "Pasted image 20230805170119.png",
