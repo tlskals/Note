@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Kotlin의 init.md",
+                "file": "Android/Flag (추가 필요).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Kotlin의 init.md",
+                "file": "Android/Flag (추가 필요).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Kotlin의 init.md",
+                "file": "Android/Flag (추가 필요).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin의 init.md"
+                "file": "Android/Flag (추가 필요).md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
+    "Kotlin/Kotlin의 변수 타입.md",
+    "Kotlin/Kotlin의 init.md",
     "Android/Flag (추가 필요).md",
     "Android/Logcat (추가 필요).md",
     "Android/App Icon 바꾸기 (추가 필요).md",
@@ -189,13 +191,11 @@
     "Kotlin/Kotlin의 when 그리고 in 조건식.md",
     "Mobile Application/DPI, DP, SP, PX.md",
     "Kotlin/Kotlin의 Nullable과 엘비스 연산자.md",
-    "Kotlin/Kotlin의 init.md",
     "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
     "Mobile Application/Hexadeciaml System.md",
     "Design Pattern/MVVC Pattern.md",
     "Mobile Application",
     "Kotlin/Kotlin의 변수 , var과 val.md",
-    "Kotlin/Kotlin의 변수 타입.md",
     "Kotlin/Kotlin의 $.md",
     "Design Pattern",
     "Spring Log.md",
