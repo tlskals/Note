@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Corountine.md",
+                "file": "Android/View Binding.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Corountine.md",
+                "file": "Android/View Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Corountine.md",
+                "file": "Android/View Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Corountine.md"
+                "file": "Android/View Binding.md"
               }
             }
           }
@@ -173,13 +173,14 @@
   },
   "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
+    "Kotlin/Corountine.md",
+    "Android/View Binding.md",
     "Android/Flag (추가 필요).md",
     "Kotlin/Kotlin의 변수 타입.md",
     "Kotlin/Kotlin의 init.md",
     "Android/Logcat (추가 필요).md",
     "Android/App Icon 바꾸기 (추가 필요).md",
     "Android/Android Studio.md",
-    "Kotlin/Corountine.md",
     "Android/Dialog (추가 필요).md",
     "Android/Async Task (추가 필요).md",
     "Android/Jetpack Compose (추가 필요).md",
@@ -201,7 +202,6 @@
     "Spring Log.md",
     "Pasted image 20230812154038.png",
     "Kotlin/변수 , var과 val - 복사본.md",
-    "Kotlin/Kotlin의 if.md",
     "Kotlin",
     "LICENSE",
     "Pasted image 20230805170119.png",

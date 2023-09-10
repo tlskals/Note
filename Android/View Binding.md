@@ -1,0 +1,5 @@
+
+gradle
+buildFeatures {
+viewBinding true
+}
