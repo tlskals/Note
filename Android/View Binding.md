@@ -4,4 +4,4 @@ buildFeatures {
 viewBinding true
 }
 
-inflate
+inflate ()
