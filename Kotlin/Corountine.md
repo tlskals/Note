@@ -11,3 +11,5 @@ jetpack integration
 --------
 corutine scopes
 
+suspend
+
