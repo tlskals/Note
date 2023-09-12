@@ -173,8 +173,9 @@
   },
   "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
-    "Android/View Binding.md",
+    "Kotlin/Kotlin의 상속 (추가 필요).md",
     "Kotlin/Corountine.md",
+    "Android/View Binding.md",
     "Android/Flag (추가 필요).md",
     "Kotlin/Kotlin의 변수 타입.md",
     "Kotlin/Kotlin의 init.md",
@@ -185,7 +186,6 @@
     "Android/Async Task (추가 필요).md",
     "Android/Jetpack Compose (추가 필요).md",
     "Kotlin/Kotlin의 Interface (추가 필요).md",
-    "Kotlin/Kotlin의 상속 (추가 필요).md",
     "Android/AndroidManifest.md",
     "Android/AlarmManager (추가 필요).md",
     "Android/AAC (Android Architecture Components) (추가 필요).md",
