@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/AAC (Android Architecture Components) (추가 필요).md",
+                "file": "Android/View Binding.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/AAC (Android Architecture Components) (추가 필요).md",
+                "file": "Android/View Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/AAC (Android Architecture Components) (추가 필요).md",
+                "file": "Android/View Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/AAC (Android Architecture Components) (추가 필요).md"
+                "file": "Android/View Binding.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "fce3983fba7c31a9",
   "lastOpenFiles": [
+    "Android/AAC (Android Architecture Components) (추가 필요).md",
     "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
     "Kotlin/Corountine.md",
     "Kotlin/Kotlin의 Interface (추가 필요).md",
@@ -189,7 +190,6 @@
     "Android/Jetpack Compose (추가 필요).md",
     "Android/AndroidManifest.md",
     "Android/AlarmManager (추가 필요).md",
-    "Android/AAC (Android Architecture Components) (추가 필요).md",
     "Kotlin/Kotlin의 when 그리고 in 조건식.md",
     "Mobile Application/DPI, DP, SP, PX.md",
     "Kotlin/Kotlin의 Nullable과 엘비스 연산자.md",
