@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "822bfd20f3d95a57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/Dialog (추가 필요).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/View Binding.md",
+                "file": "Android/Dialog (추가 필요).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/View Binding.md",
+                "file": "Android/Dialog (추가 필요).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/View Binding.md"
+                "file": "Android/Dialog (추가 필요).md"
+              }
+            }
+          },
+          {
+            "id": "1417839ea6f351d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -171,8 +193,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fce3983fba7c31a9",
+  "active": "822bfd20f3d95a57",
   "lastOpenFiles": [
+    "Android/Android Studio.md",
     "Android/AAC (Android Architecture Components) (추가 필요).md",
     "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
     "Kotlin/Corountine.md",
@@ -184,7 +207,6 @@
     "Kotlin/Kotlin의 init.md",
     "Android/Logcat (추가 필요).md",
     "Android/App Icon 바꾸기 (추가 필요).md",
-    "Android/Android Studio.md",
     "Android/Dialog (추가 필요).md",
     "Android/Async Task (추가 필요).md",
     "Android/Jetpack Compose (추가 필요).md",
