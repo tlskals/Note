@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Recycler View.md",
+                "file": "Android/Async Task (추가 필요).md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Recycler View.md",
+                "file": "Android/Async Task (추가 필요).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Recycler View.md",
+                "file": "Android/Async Task (추가 필요).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Recycler View.md"
+                "file": "Android/Async Task (추가 필요).md"
               }
             }
           },
@@ -207,8 +207,8 @@
   },
   "active": "bdc142fc326f87cb",
   "lastOpenFiles": [
-    "Android/Flag (추가 필요).md",
     "Android/Recycler View.md",
+    "Android/Flag (추가 필요).md",
     "Android/App Icon 바꾸기 (추가 필요).md",
     "Android/Android Studio.md",
     "Android/AAC (Android Architecture Components) (추가 필요).md",
