@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Async Task (추가 필요).md",
+                "file": "Android/View Binding.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Async Task (추가 필요).md",
+                "file": "Android/View Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Async Task (추가 필요).md",
+                "file": "Android/View Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Async Task (추가 필요).md"
+                "file": "Android/View Binding.md"
               }
             }
           },
@@ -207,6 +207,8 @@
   },
   "active": "bdc142fc326f87cb",
   "lastOpenFiles": [
+    "Design Pattern/MVVC Pattern.md",
+    "Android/Async Task (추가 필요).md",
     "Android/Recycler View.md",
     "Android/Flag (추가 필요).md",
     "Android/App Icon 바꾸기 (추가 필요).md",
@@ -221,7 +223,6 @@
     "Kotlin/Kotlin의 init.md",
     "Android/Logcat (추가 필요).md",
     "Android/Dialog (추가 필요).md",
-    "Android/Async Task (추가 필요).md",
     "Android/Jetpack Compose (추가 필요).md",
     "Android/AndroidManifest.md",
     "Android/AlarmManager (추가 필요).md",
@@ -229,7 +230,6 @@
     "Mobile Application/DPI, DP, SP, PX.md",
     "Kotlin/Kotlin의 Nullable과 엘비스 연산자.md",
     "Mobile Application/Hexadeciaml System.md",
-    "Design Pattern/MVVC Pattern.md",
     "Mobile Application",
     "Kotlin/Kotlin의 변수 , var과 val.md",
     "Kotlin/Kotlin의 $.md",
