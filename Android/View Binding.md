@@ -6,7 +6,3 @@ viewBinding true
 
 inflate ()
 
-.
-.
-.
-
