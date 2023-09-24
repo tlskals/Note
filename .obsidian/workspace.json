@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72e9bf11a78db51e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android/App Icon 바꾸기 (추가 필요).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "98df621811c6533a",
             "type": "leaf",
             "state": {
@@ -61,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/View Binding.md",
+                "file": "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/View Binding.md",
+                "file": "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/View Binding.md",
+                "file": "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/View Binding.md"
+                "file": "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md"
               }
             }
           },
@@ -207,23 +195,23 @@
   },
   "active": "bdc142fc326f87cb",
   "lastOpenFiles": [
+    "Android/Jetpack Compose (추가 필요).md",
+    "Android/App Icon 바꾸기 (추가 필요).md",
+    "Android/Flag (추가 필요).md",
+    "Android/View Binding.md",
+    "Android/Logcat (추가 필요).md",
     "Design Pattern/MVVC Pattern.md",
     "Android/Async Task (추가 필요).md",
     "Android/Recycler View.md",
-    "Android/Flag (추가 필요).md",
-    "Android/App Icon 바꾸기 (추가 필요).md",
     "Android/Android Studio.md",
     "Android/AAC (Android Architecture Components) (추가 필요).md",
     "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
     "Kotlin/Corountine.md",
     "Kotlin/Kotlin의 Interface (추가 필요).md",
     "Kotlin/Kotlin의 상속 (추가 필요).md",
-    "Android/View Binding.md",
     "Kotlin/Kotlin의 변수 타입.md",
     "Kotlin/Kotlin의 init.md",
-    "Android/Logcat (추가 필요).md",
     "Android/Dialog (추가 필요).md",
-    "Android/Jetpack Compose (추가 필요).md",
     "Android/AndroidManifest.md",
     "Android/AlarmManager (추가 필요).md",
     "Kotlin/Kotlin의 when 그리고 in 조건식.md",

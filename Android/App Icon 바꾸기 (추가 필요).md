@@ -1,5 +1,0 @@
-
-# App Icon
-
-
-,sfsa
