@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dafcbcce3fc2ec30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/AlarmManager (추가 필요).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
+                "file": "Android/AlarmManager (추가 필요).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md",
+                "file": "Android/AlarmManager (추가 필요).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin의 Safe Cast, Unsafe Cast (추가 필요).md"
+                "file": "Android/AlarmManager (추가 필요).md"
               }
             }
           },
@@ -193,7 +205,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bdc142fc326f87cb",
+  "active": "dafcbcce3fc2ec30",
   "lastOpenFiles": [
     "Android/Jetpack Compose (추가 필요).md",
     "Android/App Icon 바꾸기 (추가 필요).md",
